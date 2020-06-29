@@ -14,6 +14,17 @@ you will find the raw downloaded sequences in `seqs` folder, as well as the scri
 
 ## Cured data
 In this folder you will find all the generated data, organised in several folders for each step of the analysis and type of data used.
+```
+|- cured_data
+   |- alignments
+   |- all_data_csv
+   |- convergence
+   |- datation
+   |- phylogenetic_signal
+   |- plots
+   |- real_seqs
+   |- simulated_seqs
+```
 
 ## Scripts
 This contains the scripts used to develop all outputs you will see at cured data.
