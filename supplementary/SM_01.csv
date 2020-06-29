@@ -1,0 +1,128 @@
+Supplementary material 1. Taxonomy & rbcL sequences of analysed species .,,,,,,,,,,,,,,
+Species,TaxID,Taxonomy ref,Group,Phylum,Class,Order,Family,Genera,Type,Nucleotides (accs),Length (bp),Amino acid (accs),Length (aa),Sequence ref
+Nocardia cyriacigeorgica,135487,Yassin et al. 2001,Bacterial outgroup,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Tree outgroup,FO082843.1,1443,CCF64008.1,480,10.1128/JB.00161-12
+Nocardia mangyaensis,2213200,Yang et al. 2019,Bacterial outgroup,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Tree outgroup,CP018082.1,1443,APE34591.1,480,10.1099/ijsem.0.003159
+Nocardia otitidiscaviarum,1823,Snijders 1924,Bacterial outgroup,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Tree outgroup,CP041695.1,1443,QDP79558.1,480,NA
+Nocardia seriolae,37332,Kudo et al. 1988,Bacterial outgroup,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Tree outgroup,CP017839.1,1449,APA98613.1,482,NA
+Nocardia terpenica,455432,Hoshino et al. 2007,Bacterial outgroup,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Tree outgroup,CP023778.1,1443,ATL67803.1,480,NA
+Mycolicibacterium litorale,758802,(Zhang et al. 2012) Gupta et al. 2018,Bacterial outgroup,NA,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Tree outgroup,CP019882.1,1431,AQT80891.1,476,NA
+Cardotiella quinquefaria,61548,(Hornsch.) Vitt 1981,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Cardotiella,Ingroup,AF005523.1,1320,AAC96037.1,440,10.2307/2446642
+Desmotheca apiculata,61549,(Dozy & Molk.) Card.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Desmotheca,Ingroup,AF005531.1,1320,AAC96045.1,440,10.2307/2446642
+Groutiella apiculata,61554,(Hook. & Grev.) Crum & Steere,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Groutiella,Ingroup,AF005527.1,1320,AAC96041.1,440,10.2307/2446642
+Groutiella chimborazensis,61555,(Spruce ex Mitten) Florsch,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Groutiella,Ingroup,AF005526.1,1320,AAC96040.1,440,NA
+Lewinskya incana,2564002,"(Müll.Hal.) F.Lara, Garilleti & Goffinet",Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Lewinskya,Ingroup,MK521877.1,1428,QBX99207.1,475,10.1016/j.ympev.2019.106598
+Macrocoma tenuis,61513,(Hook. & Grev.) Vitt subsp. sullivantii (C. Müll.) Vitt,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macrocoma,Ingroup,AF005524.1,1320,AAC96038.1,440,10.2307/2446642
+Macromitrium comatum,408847,Mitt.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AB279620.1,1428,BAM65609.1,475,NA
+Macromitrium ferriei,408848,Card.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AB279621.1,1428,BAM65610.1,475,NA
+Macromitrium gymnostomum,408849,Sull. & Lesq.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AB279622.1,1428,BAM65611.1,475,NA
+Macromitrium incurvifolium,61558,(Hook. & Grev.) Schwaegr.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AF005528.1,1320,AAC96042.1,440,10.2307/2446642
+Macromitrium japonicum,301181,Dozy & Molk.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AB194960.2,1428,BAD98508.2,475,Tsubota et al. 2004
+Macromitrium longifolium,61559,(Hook.) Brid.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AF005529.1,1320,AAC96043.1,440,10.2307/2446642
+Macromitrium prolongatum,408850,Mitt.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AB279623.1,1428,BAM65612.1,475,NA
+Macromitrium richardii,61560,Schwaegr.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Macromitrium,Ingroup,AF005530.1,1320,AAC96044.1,440,10.2307/2446642
+Matteria papillosa,61556,(Thér.) Goffinet.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Matteria,Ingroup,AF005525.1,1320,AAC96039.1,440,10.2307/2446642
+Nyholmiella obtusifolia,61564,(Brid.) Holmen & E. Warncke,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Nyholmiella,Ingroup,AF005537.1,1320,AAC96051.1,440,10.2307/2446642
+Orthotrichum anomalum,61562,Hedw.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Orthotrichum,Ingroup,AF005538.1,1320,AAC96052.1,440,10.2307/2446642
+Orthotrichum consobrinum,408845,Cardot,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Orthotrichum,Ingroup,AB279617.1,1428,BAM65606.1,475,NA
+Orthotrichum kellmanii,262976,"Norris, Shevock & Goffinet",Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Orthotrichum,Ingroup,AY452692.1,1320,AAS17010.1,440,10.1639/0007-2745(2004)107[0209:OKBOAR]2.0.CO;2
+Orthotrichum pumilum,122744,Sw.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Orthotrichum,Ingroup,AF226819.1,1347,AAG53561.1,449,NA
+Orthotrichum rogeri,1592803,Brid,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Orthotrichum,Ingroup,KP119739.1,1428,AJD22496.1,475,NA
+Pulvigera lyellii,61563,"(Hook. & Taylor) Plášek, Sawicki & Ochyra",Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Pulvigera,Ingroup,AF005536.1,1320,AAC96050.1,440,10.2307/2446642
+Schlotheimia brownii,61569,Schwaegr.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Schlotheimia,Ingroup,AF005522.1,1320,AAC96036.1,440,10.2307/2446642
+Schlotheimia grevilleana,408846,Mitt.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Schlotheimia,Ingroup,AB279618.1,1428,BAM65607.1,475,NA
+Schlotheimia tecta,61570,Hook. & Wilson,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Schlotheimia,Ingroup,AF005520.1,1320,AAC96034.1,440,10.2307/2446642
+Schlotheimia trichomitria,61571,Schwägr.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Schlotheimia,Ingroup,AF005521.1,1320,AAC96035.1,440,10.2307/2446642
+Sehnemobryum paraguense,262978,(Besch.) Lewinsky-Haapasaari & Hedenäs,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Sehnemobryum,Ingroup,AY452693.1,1320,AAS17011.1,440,10.1639/0007-2745(2004)107[0209:OKBOAR]2.0.CO;2
+Eosphagnum rigescens,1846180,Warnst.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Sphagnum,Outgroup,KU725456.1,1428,AND48323.1,475,10.1093/aob/mcw086
+Stoneobryum bunyaense,1903712,D.H. Norris & H. Rob.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Stoneobryum,Ingroup,MK521875.1,1428,QBX99043.1,475,10.3906/bot-1811-13
+Stoneobryum mirum,262980,(Lewinsky) D.H. Norris & H. Rob.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Stoneobryum,Ingroup,AY452694.1,1320,AAS17012.1,440,10.1639/0007-2745(2004)107[0209:OKBOAR]2.0.CO;2
+Takakia lepidozioides,37425,S. Hattori & Inoue,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Takakia,Outgroup,AB476602.1,1428,BAI66345.1,475,10.1002/tax.592010
+Tetraphis pellucida,37420,Hedw,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Tetraphis,Outgroup,KJ817846.1,1428,AIB08516.1,475,10.1186/1471-2164-15-383
+Ulota bruchii,700990,Hornsch. ex Brid.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Ulota,Ingroup,MK521876.1,1428,QBX99125.1,475,10.3906/bot-1811-13
+Ulota crispa,140636,(Hedw.) Brid.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Ulota,Ingroup,AB279616.1,1428,BAM65605.1,475,"Bell & Newton, 2004"
+Ulota lutea,61578,(Mitt. in Wilson) Mitt.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Ulota,Ingroup,AF005540.1,1320,AAC96054.1,440,10.2307/2446642
+Ulota obtusiuscula,61579,Macoun & Kindberg,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Ulota,Ingroup,AF005539.1,1320,AAC96053.1,440,10.2307/2446642
+Ulota perichaetialis,61547,(Sainsb.) Goffinet,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Ulota,Ingroup,AF005541.1,1320,AAC96055.1,440,10.2307/2446642
+Zygodon intermedius,61582,Bruch & Schimp.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Zygodon,Ingroup,AF005532.1,1320,AAC96046.1,440,10.2307/2446642
+Zygodon obtusifolius,61583,Hook,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Zygodon,Ingroup,AF005535.1,1320,AAC96049.1,440,10.2307/2446642
+Zygodon pungens,61584,Müll. Hal.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Zygodon,Ingroup,AF005534.1,1320,AAC96048.1,440,10.2307/2446642
+Zygodon reinwardtii,61585,(Hornsch.) Bruch. & Schimp.,Bryophytes,Streptophyta,Bryopsida,Orthotrichales,Orthotrichaceae,Zygodon,Ingroup,AF005533.1,1320,AAC96047.1,440,10.2307/2446642
+Gloeobacter kilaueensis,1416614,Saw et al. 2013,Cyanobacteria,Cyanobacteria,Cyanophyceae,Gloeobacterales,Gloeobacteraceae,Gloeobacter,Outgroup,CP003587.1,1425,AGY56915.1,474,10.1371/journal.pone.0076376
+Gloeobacter violaceus,33072,Rippka et al. 1974,Cyanobacteria,Cyanobacteria,Cyanophyceae,Gloeobacterales,Gloeobacteraceae,Gloeobacter,Outgroup,BA000045.2,1425,BAC90097.1,474,10.1093/dnares/10.4.137
+Anabaena cylindrica PCC 7122,272123,Lemmermann 1896,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Anabaena,Ingroup,CP003659.1,1431,AFZ55644.1,476,NA
+Anabaena sp. AL09,1710891,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Anabaena,Ingroup,LJOQ01000039.1,1431,OBQ10764.1,476,NA
+Anabaena sp. CRKS33,1710888,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Anabaena,Ingroup,LJOT01000120.1,1431,OBQ36830.1,476,NA
+Anabaena sp. MDT14b,1710886,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Anabaena,Ingroup,LJOV01000193.1,1431,OBQ36220.1,476,NA
+Anabaena sp. WA102,1647413,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Anabaena,Ingroup,CP011456.1,1431,ALB41756.1,476,NA
+Nostoc carneum NIES-2107,1973483,Agardh ex Bornet et Flahault 1888,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc,Ingroup,AP018180.1,1431,BAY31787.1,476,NA
+Nostoc commune HK-02,1137087,Vaucher ex Bornet et Flahault 1888,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc,Ingroup,AP018326.1,1431,BBD65873.1,476,NA
+Nostoc linckia z16,1628751,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc,Ingroup,LAHI01000140.1,1431,PHK41354.1,476,NA
+Nostoc punctiforme PCC 73102,63737,(Kutzing) Hariot 1891,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc,Ingroup,CP001037.1,1431,ACC82570.1,476,10.1104/pp.112.213116
+Nostoc sp. NIES-2111,1973475,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc,Ingroup,AP018184.1,1431,BAY39546.1,476,NA
+Nostoc sphaeroides CCNUC1,2653204,Kutzing ex Bornet & Flahault 1886,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc,Ingroup,CP045226.1,1431,QFS49268.1,476,NA
+Calothrix elsteri CCALA 953,987040,Komarek et al. 2012,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Calothrix,Ingroup,NTFS01000005.1,1431,PAX60588.1,476,NA
+Calothrix sp. NIES-3974,2005462,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Calothrix,Ingroup,AP018254.1,1431,BAZ04846.1,476,NA
+Calothrix sp. NIES-4071,2005469,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Calothrix,Ingroup,AP018255.1,1431,BAZ16966.1,476,NA
+Calothrix sp. NIES-4105,2005463,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Calothrix,Ingroup,AP018290.1,1431,BAZ63111.1,476,NA
+Calothrix sp. PCC 6303,1170562,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Calothrix,Ingroup,CP003610.1,1431,AFZ01992.1,476,NA
+Calothrix sp. NIES-4101,2005461,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Calothrix,Ingroup,AP018280.1,1431,BAZ42712.1,476,NA
+Fremyella diplosiphon NIES-3275,1973485,(Gomont) De Toni 1936,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Fremyella,Ingroup,AP018233.1,1431,BAY93896.1,476,NA
+Rivularia sp. PCC 7116,373994,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Nostocales,Rivulariaceae,Rivularia,Ingroup,CP003549.1,1431,AFY55923.1,476,NA
+Limnothrix sp. P13C2,1880902,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Limnothrix,Ingroup,MBRF01000002.1,1425,OCQ98652.1,474,NA
+Limnothrix sp. PR1529,1704291,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Limnothrix,Ingroup,LIRO01000099.1,1425,PIB07953.1,474,NA
+Pseudanabaena biceps PCC 7429,927668,Bocher 1946,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,ALWB01000066.1,1431,ELS32946.1,476,10.1073/pnas.1217107110
+Pseudanabaena frigida,945775,(Fritsch) Anagnostidis 2001,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,QBML01000008.1,1431,PZO42169.1,476,NA
+Pseudanabaena sp.,1153,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,QBLS01000013.1,1431,PZU95930.1,476,NA
+Pseudanabaena sp.,1153,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,QBMK01000038.1,1431,PZV11582.1,476,NA
+Pseudanabaena sp. ABRG5-3,685565,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,AP017560.1,1431,BBC26154.1,476,NA
+Pseudanabaena sp. PCC 7367,82654,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,CP003592.1,1410,AFY69218.1,470,NA
+Pseudanabaena sp. SR411,1980935,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Pseudanabaenaceae,Pseudoanabaena,Ingroup,NDHW01000083.1,1431,OYQ65395.1,476,NA
+Synechococcus elongatus PCC 11801,2219813,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP030139.1,1416,AZB73040.1,472,10.1038/s41598-018-34872-z
+Synechococcus elongatus PCC 6301,269084,Nageli 1849,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,AP008231.1,1419,BAD78320.1,472,10.1074/jbc.M513196200
+Synechococcus elongatus PCC 7942,1140,Nageli 1848,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP000100.1,1416,ABB57456.1,472,NA
+Synechococcus sp. PCC 11901,2579791,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP040360.1,1413,QCS50341.1,471,NA
+Synechococcus sp. PCC 7002,32049,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP000951.1,1413,ACA99786.1,471,NA
+Synechococcus sp. PCC 73109,374982,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP013998.1,1413,AMA09473.1,471,NA
+Synechococcus sp. PCC 8807,195248,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP016483.1,1413,ANV90809.1,471,NA
+Synechococcus sp. PCC 7117,195498,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP016477.1,1413,ANV87636.1,471,NA
+Synechococcus sp. PCC 6312,195253,NA,Cyanobacteria,Cyanobacteria,Cyanophyceae,Synechococcales,Synechococcaceae,Synechococcus,Ingroup,CP003558.1,1428,AFY61139.1,475,NA
+Taxus mariei,120273,(Lemee & H.Lev.) S.Y.Hu ex T.S.Liu,Land plants,Coniferophyta,Pinopsida,Cupressales,Taxaceae,Taxus,Ingroup,KJ123824.1,1428,AHL69546.1,475,10.1016/j.gene.2014.02.037
+Taxus florinii,1982072,"Spjut, 2007",Land plants,Coniferophyta,Pinopsida,Cupressales,Taxaceae,Taxus,Ingroup,MH390487.1,1428,QBK36602.1,475,10.1038/s41598-019-39161-x 
+Taxus brevifolia,46220,Nutt.,Land plants,Coniferophyta,Pinopsida,Cupressales,Taxaceae,Taxus,Ingroup,MH390484.1,1428,QBK36356.1,475,10.1038/s41598-019-39161-x
+Cephalotaxus oliveri,147282,Mast.,Land plants,Coniferophyta,Pinopsida,Cupressales,Taxaceae,Cephalotaxus,Ingroup,KC136217.1,1428,AFZ65553.1,475,10.1093/gbe/evt042
+Cephalotaxus sinensis,89484,(Rehder & E.H.Wilson) H.L.Li,Land plants,Coniferophyta,Pinopsida,Cupressales,Taxaceae,Cephalotaxus,Ingroup,MF977938.1,1428,AXI98084.1,475,NA
+Pinus sylvestris,3349,L.,Land plants,Coniferophyta,Pinopsida,Pinales,Pinaceae,Pinus,Ingroup,KR476379.1,1428,ALK01248.1,475,NA
+Pinus nigra,58042,J.F.Arnold,Land plants,Coniferophyta,Pinopsida,Pinales,Pinaceae,Pinus,Ingroup,DQ353733.1,1428,ABD04207.1,475,NA
+Pinus halepensis,71633,Mill.,Land plants,Coniferophyta,Pinopsida,Pinales,Pinaceae,Pinus,Ingroup,JN854197.1,1428,AET48331.1,475,10.1186/1471-2148-12-100
+Picea abies,3329,(L.) H.Karst.,Land plants,Coniferophyta,Pinopsida,Pinales,Pinaceae,Picea,Ingroup,X75478.1,1428,CAA53209.1,475,10.1104/pp.107.3.1037
+Picea pungens,3331,Engelm.,Land plants,Coniferophyta,Pinopsida,Pinales,Pinaceae,Picea,Ingroup,AF456382.1,1407,AAM49707.1,469,NA
+Dioon edule,58033,Lindl.,Land plants,Cycadophyta,Cycadopsida,Cycadales,Cycadaceae,Dioon,Ingroup,AF531203.1,1395,AAP87764.1,465,NA
+Dioon spinulosum,115877,Dyer,Land plants,Cycadophyta,Cycadopsida,Cycadales,Cycadaceae,Dioon,Ingroup,LC049070.1,1428,BAR93643.1,475,10.1093/gbe/evv125
+Dioon tomasellii,182487,De Luca et al.,Land plants,Cycadophyta,Cycadopsida,Cycadales,Cycadaceae,Dioon,Ingroup,AF531204.1,1395,AAP87765.1,465,NA
+Macrozamia communis,114456,L.A.S.Johnson,Land plants,Cycadophyta,Cycadopsida,Cycadales,Cycadaceae,Macrozamia,Ingroup,AF531205.1,1395,AAP87766.1,465,NA
+Macrozamia mountperriensis,707766,F.M.Bailey,Land plants,Cycadophyta,Cycadopsida,Cycadales,Cycadaceae,Macrozamia,Ingroup,JX512653.1,1428,AFS64400.1,475,NA
+Prionium serratum,13644,NA,Land plants,Streptophyta,Liliopsida,Poales,Thurniaceae,Prionium,Ingroup,U49223.1,1437,AAA92924.1,479,NA
+Trilepis lhotzkiana,306637,NA,Land plants,Streptophyta,Liliopsida,Poales,Cyperaceae,Trilepis,Ingroup,AY725955.1,1395,AAX18751.1,469,NA
+Cyperus hyalinus,306635,"Vahl, 1805",Land plants,Streptophyta,Liliopsida,Poales,Cyperaceae,Cyperus,Ingroup,AY725954.1,1395,AAX18750.1,469,NA
+Anigozanthos flavidus,72643,DC.,Land plants,Streptophyta,Liliopsida,Commelinales,Haemodoraceae,Anigozanthos,Ingroup,AJ404843.1,1398,CAC17827.1,466, 10.2307/2657094
+Anigozanthos manglesii,114198,D.Don,Land plants,Streptophyta,Liliopsida,Commelinales,Haemodoraceae,Anigozanthos,Ingroup,AJ286556.1,1460,CAB71925.1,477,NA
+Larrea tridentata,66636,"(DC.) Coville, 1893",Land plants, Streptophyta,Magnoliopsida,Zygophyllales,Zygophyllaceae,Larrea,Ingroup,AY935748.1,1395,AAY19314.1,465,10.1600/036364406775971778
+Bulnesia arborea,66627,"(Jacq.) Engl., 1890",Land plants, Streptophyta,Magnoliopsida,Zygophyllales, Zygophyllaceae,Bulnesia,Ingroup,Y15017.1,1402,CAA75248.1,466,10.1006/bojl.1996.0063
+Guaiacum sanctum,45189,L.,Land plants, Streptophyta,Magnoliopsida,Zygophyllales, Zygophyllaceae,Guaiacum,Ingroup,AJ131770.1,1428,CAB62905.1,475,NA
+Malpighia emarginata,151847,DC.,Land plants, Streptophyta,Magnoliopsida,Malphigialles,Malpighiaceae,Malpighia,Ingroup,AF344493.1,1400,AAK70983.1,465,10.2307/3558361
+Malpighia coccigera,29755,L.,Land plants, Streptophyta,Magnoliopsida,Malphigialles,Malpighiaceae,Malpighia,Ingroup,AJ235784.1,1428,CAB85661.1,475,10.1093/sysbio/49.2.306
+Equisetum arvense,3258,L.,Land plants, Streptophyta,Polypodiopsida,Equisetales,Equisetaceae,Equisetum,Outgroup,L11053.1,1587,AAA57239.1,475,10.1006/mpev.1994.1014
+Equisetum hyemale,3262,L.,Land plants, Streptophyta,Polypodiopsida,Equisetales,Equisetaceae,Equisetum,Outgroup,KC117177.1,1428,AGC26636.1,475,10.1186/1471-2148-13-8
+Trichomanes trollii,1481379,Bergdolt,Land plants, Streptophyta,Polypodiopsida,Hymenophyllales,Hymenophyllaceae,Trichomanes,Ingroup,MH348274.1,1428,QAV57667.1,475,10.1111/njb.02072
+Trichomanes elegans,58829,Rich.,Land plants, Streptophyta,Polypodiopsida,Hymenophyllales,Hymenophyllaceae,Trichomanes,Ingroup,AB083295.1,1428,BAC67011.1,475,10.1043/0363-6445-28.2.228
+Hymenophyllum reniforme,41968,"Hook., 1844",Land plants, Streptophyta,Polypodiopsida,Hymenophyllales,Hymenophyllaceae,Hymenophyllum,Ingroup,AB083290.1,1428,BAC67001.1,475,10.1043/0363-6445-28.2.228
+Hymenophyllum microcarpum,191650,Desv.,Land plants, Streptophyta,Polypodiopsida,Hymenophyllales,Hymenophyllaceae,Hymenophyllum,Ingroup,AB083289.1,1428,BAC66999.1,475,10.1043/0363-6445-28.2.228
+Dipteris conjugata,32108,"Reinw., 1825",Land plants, Streptophyta,Polypodiopsida,Gleicheniales,Dipteridaceae,Dipteris,Ingroup,MH269300.1,1428,AXX76473.1,475,10.1002/ajb2.1152
+Diplopterygium glaucum,397682,(Thunb. ex Houtt.) Nakai,Land plants, Streptophyta,Polypodiopsida,Gleicheniales,Gleicheniaceae,Diplopterygium,Ingroup,KF225594.1,1428,AHA59686.1,475,10.14348/molcells.2014.2296
+Osmunda japonica,90693,Thunb.,Land plants, Streptophyta,Polypodiopsida,Osmundales,Osmundaceae,Osmuda,Ingroup,MK554796.1,1428,QCD15697.1,475,10.1007/s00606-015-1197-y
+Osmundastrum cinnamomeum,3284,(L.) C.Presl,Land plants, Streptophyta,Polypodiopsida,Osmundales,Osmundaceae,Osmundastrum,Ingroup,KF225592.1,1428,AHA59565.1,475,10.14348/molcells.2014.2296
+Amborella trichopoda,13333,Baill.,Land plants, Streptophyta,Magnoliopsida,Nymphaeales, Amborellaceae,Amborella,Ingroup,L12628.2,1428,AAA92149.2,475,10.2307/2399848 
+Nuphar pumila,38861,(Timm) DC.,Land plants, Streptophyta,Magnoliopsida,Nymphaeales,Nymphaeaceae,Nuphar,Ingroup,MH050796.1,1428,AWD77744.1,475,NA
+Nuphar longifolia,2173159,"(Michx.) Sm., 1819",Land plants, Streptophyta,Magnoliopsida,Nymphaeales,Nymphaeaceae,Nuphar,Ingroup,MH050795.1,1428,AWD77659.1,475,NA
+Cabomba furcata,296032,"Schult. & Schult.f., 1830",Land plants, Streptophyta,Magnoliopsida,Nymphaeales, Cabombaceae,Cabomba,Ingroup,MG967470.1,1425,AYE68046.1,474,10.3390/life8030025
+Cabomba aquatica,310672,Aubl.,Land plants, Streptophyta,Magnoliopsida,Nymphaeales, Cabombaceae,Cabomba,Ingroup,MG720559.1,1425,AYE67957.1,474,10.3390/life8030025

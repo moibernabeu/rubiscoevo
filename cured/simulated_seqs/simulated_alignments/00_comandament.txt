@@ -1,0 +1,2 @@
+evolver 7 fitxer.dat (AA)
+evolver 5 fitxer.dat (NT)

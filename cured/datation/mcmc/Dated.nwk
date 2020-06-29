@@ -1,0 +1,222 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=120;
+	taxlabels
+	1137087_BBD65873_rbcL[&Combined="Nostocales | Nostoc commune HK-02",Group="Nostocales",Species="Nostoc commune HK-02",TaxID=1137087]
+	1140_ABB57456_rbcL[&Combined="Synechococcales | Synechococcus elongatus PCC 7942",Group="Synechococcales",Species="Synechococcus elongatus PCC 7942",TaxID=1140]
+	114198_CAB71925_rbcL[&Combined="Commelinales | Anigozanthos manglesii",Group="Commelinales",Species="Anigozanthos manglesii",TaxID=114198]
+	114456_AAP87766_rbcL[&Combined="Cycadales | Macrozamia communis",Group="Cycadales",Species="Macrozamia communis",TaxID=114456]
+	1153_PZU95930_rbcL[&Combined="Synechococcales | Pseudanabaena sp.",Group="Synechococcales",Species="Pseudanabaena sp.",TaxID=1153]
+	1153_PZV11582_rbcL[&Combined="Synechococcales | Pseudanabaena sp.",Group="Synechococcales",Species="Pseudanabaena sp.",TaxID=1153]
+	115877_BAR93643_rbcL[&Combined="Cycadales | Dioon spinulosum",Group="Cycadales",Species="Dioon spinulosum",TaxID=115877]
+	1170562_AFZ01992_rbcL[&Combined="Nostocales | Calothrix sp. PCC 6303",Group="Nostocales",Species="Calothrix sp. PCC 6303",TaxID=1170562]
+	120273_AHL69546_rbcL[&Combined="Cupressales | Taxus mariei",Group="Cupressales",Species="Taxus mariei",TaxID=120273]
+	122744_AAG53561_rbcL[&Combined="Orthotrichales | Orthotrichum pumilum",Group="Orthotrichales",Species="Orthotrichum pumilum",TaxID=122744]
+	13333_AAA92149_rbcL[&Combined="Nymphaeales | Amborella trichopoda",Group="Nymphaeales",Species="Amborella trichopoda",TaxID=13333]
+	13644_AAA92924_rbcL[&Combined="Poales | Prionium serratum",Group="Poales",Species="Prionium serratum",TaxID=13644]
+	140636_BAM65605_rbcL[&Combined="Orthotrichales | Ulota crispa",Group="Orthotrichales",Species="Ulota crispa",TaxID=140636]
+	1416614_AGY56915_rbcL[&Combined="Gloeobacterales | Gloeobacter kilaueensis",Group="Gloeobacterales",Species="Gloeobacter kilaueensis",TaxID=1416614]
+	147282_AFZ65553_rbcL[&Combined="Cupressales | Cephalotaxus oliveri",Group="Cupressales",Species="Cephalotaxus oliveri",TaxID=147282]
+	1481379_QAV57667_rbcL[&Combined="Hymenophyllales | Trichomanes trollii",Group="Hymenophyllales",Species="Trichomanes trollii",TaxID=1481379]
+	151847_AAK70983_rbcL[&Combined="Malphigialles | Malpighia emarginata",Group="Malphigialles",Species="Malpighia emarginata",TaxID=151847]
+	1592803_AJD22496_rbcL[&Combined="Orthotrichales | Orthotrichum rogeri",Group="Orthotrichales",Species="Orthotrichum rogeri",TaxID=1592803]
+	1628751_PHK41354_rbcL[&Combined="Nostocales | Nostoc linckia z16",Group="Nostocales",Species="Nostoc linckia z16",TaxID=1628751]
+	1647413_ALB41756_rbcL[&Combined="Nostocales | Anabaena sp. WA102",Group="Nostocales",Species="Anabaena sp. WA102",TaxID=1647413]
+	1704291_PIB07953_rbcL[&Combined="Synechococcales | Limnothrix sp. PR1529",Group="Synechococcales",Species="Limnothrix sp. PR1529",TaxID=1704291]
+	1710886_OBQ36220_rbcL[&Combined="Nostocales | Anabaena sp. MDT14b",Group="Nostocales",Species="Anabaena sp. MDT14b",TaxID=1710886]
+	1710888_OBQ36830_rbcL[&Combined="Nostocales | Anabaena sp. CRKS33",Group="Nostocales",Species="Anabaena sp. CRKS33",TaxID=1710888]
+	1710891_OBQ10764_rbcL[&Combined="Nostocales | Anabaena sp. AL09",Group="Nostocales",Species="Anabaena sp. AL09",TaxID=1710891]
+	182487_AAP87765_rbcL[&Combined="Cycadales | Dioon tomasellii",Group="Cycadales",Species="Dioon tomasellii",TaxID=182487]
+	1846180_AND48323_rbcL[&Combined="Orthotrichales | Eosphagnum rigescens",Group="Orthotrichales",Species="Eosphagnum rigescens",TaxID=1846180]
+	1880902_OCQ98652_rbcL[&Combined="Synechococcales | Limnothrix sp. P13C2",Group="Synechococcales",Species="Limnothrix sp. P13C2",TaxID=1880902]
+	1903712_QBX99043_rbcL[&Combined="Orthotrichales | Stoneobryum bunyaense",Group="Orthotrichales",Species="Stoneobryum bunyaense",TaxID=1903712]
+	191650_BAC66999_rbcL[&Combined="Hymenophyllales | Hymenophyllum microcarpum",Group="Hymenophyllales",Species="Hymenophyllum microcarpum",TaxID=191650]
+	195248_ANV90809_rbcL[&Combined="Synechococcales | Synechococcus sp. PCC 8807",Group="Synechococcales",Species="Synechococcus sp. PCC 8807",TaxID=195248]
+	195253_AFY61139_rbcL[&Combined="Synechococcales | Synechococcus sp. PCC 6312",Group="Synechococcales",Species="Synechococcus sp. PCC 6312",TaxID=195253]
+	195498_ANV87636_rbcL[&Combined="Synechococcales | Synechococcus sp. PCC 7117",Group="Synechococcales",Species="Synechococcus sp. PCC 7117",TaxID=195498]
+	1973475_BAY39546_rbcL[&Combined="Nostocales | Nostoc sp. NIES-2111",Group="Nostocales",Species="Nostoc sp. NIES-2111",TaxID=1973475]
+	1973483_BAY31787_rbcL[&Combined="Nostocales | Nostoc carneum NIES-2107",Group="Nostocales",Species="Nostoc carneum NIES-2107",TaxID=1973483]
+	1973485_BAY93896_rbcL[&Combined="Nostocales | Fremyella diplosiphon NIES-3275",Group="Nostocales",Species="Fremyella diplosiphon NIES-3275",TaxID=1973485]
+	1980935_OYQ65395_rbcL[&Combined="Synechococcales | Pseudanabaena sp. SR411",Group="Synechococcales",Species="Pseudanabaena sp. SR411",TaxID=1980935]
+	1982072_QBK36602_rbcL[&Combined="Cupressales | Taxus florinii",Group="Cupressales",Species="Taxus florinii",TaxID=1982072]
+	2005461_BAZ42712_rbcL[&Combined="Nostocales | Calothrix sp. NIES-4101",Group="Nostocales",Species="Calothrix sp. NIES-4101",TaxID=2005461]
+	2005462_BAZ04846_rbcL[&Combined="Nostocales | Calothrix sp. NIES-3974",Group="Nostocales",Species="Calothrix sp. NIES-3974",TaxID=2005462]
+	2005463_BAZ63111_rbcL[&Combined="Nostocales | Calothrix sp. NIES-4105",Group="Nostocales",Species="Calothrix sp. NIES-4105",TaxID=2005463]
+	2005469_BAZ16966_rbcL[&Combined="Nostocales | Calothrix sp. NIES-4071",Group="Nostocales",Species="Calothrix sp. NIES-4071",TaxID=2005469]
+	2173159_AWD77659_rbcL[&Combined="Nymphaeales | Nuphar longifolia",Group="Nymphaeales",Species="Nuphar longifolia",TaxID=2173159]
+	2219813_AZB73040_rbcL[&Combined="Synechococcales | Synechococcus elongatus PCC 11801",Group="Synechococcales",Species="Synechococcus elongatus PCC 11801",TaxID=2219813]
+	2564002_QBX99207_rbcL[&Combined="Orthotrichales | Lewinskya incana",Group="Orthotrichales",Species="Lewinskya incana",TaxID=2564002]
+	2579791_QCS50341_rbcL[&Combined="Synechococcales | Synechococcus sp. PCC 11901",Group="Synechococcales",Species="Synechococcus sp. PCC 11901",TaxID=2579791]
+	262976_AAS17010_rbcL[&Combined="Orthotrichales | Orthotrichum kellmanii",Group="Orthotrichales",Species="Orthotrichum kellmanii",TaxID=262976]
+	262978_AAS17011_rbcL[&Combined="Orthotrichales | Sehnemobryum paraguense",Group="Orthotrichales",Species="Sehnemobryum paraguense",TaxID=262978]
+	262980_AAS17012_rbcL[&Combined="Orthotrichales | Stoneobryum mirum",Group="Orthotrichales",Species="Stoneobryum mirum",TaxID=262980]
+	2653204_QFS49268_rbcL[&Combined="Nostocales | Nostoc sphaeroides CCNUC1",Group="Nostocales",Species="Nostoc sphaeroides CCNUC1",TaxID=2653204]
+	269084_BAD78320_rbcL[&Combined="Synechococcales | Synechococcus elongatus PCC 6301",Group="Synechococcales",Species="Synechococcus elongatus PCC 6301",TaxID=269084]
+	272123_AFZ55644_rbcL[&Combined="Nostocales | Anabaena cylindrica PCC 7122",Group="Nostocales",Species="Anabaena cylindrica PCC 7122",TaxID=272123]
+	296032_AYE68046_rbcL[&Combined="Nymphaeales | Cabomba furcata",Group="Nymphaeales",Species="Cabomba furcata",TaxID=296032]
+	29755_CAB85661_rbcL[&Combined="Malphigialles | Malpighia coccigera",Group="Malphigialles",Species="Malpighia coccigera",TaxID=29755]
+	301181_BAD98508_rbcL[&Combined="Orthotrichales | Macromitrium japonicum",Group="Orthotrichales",Species="Macromitrium japonicum",TaxID=301181]
+	306635_AAX18750_rbcL[&Combined="Poales | Cyperus hyalinus",Group="Poales",Species="Cyperus hyalinus",TaxID=306635]
+	306637_AAX18751_rbcL[&Combined="Poales | Trilepis lhotzkiana",Group="Poales",Species="Trilepis lhotzkiana",TaxID=306637]
+	310672_AYE67957_rbcL[&Combined="Nymphaeales | Cabomba aquatica",Group="Nymphaeales",Species="Cabomba aquatica",TaxID=310672]
+	32049_ACA99786_rbcL[&Combined="Synechococcales | Synechococcus sp. PCC 7002",Group="Synechococcales",Species="Synechococcus sp. PCC 7002",TaxID=32049]
+	32108_AXX76473_rbcL[&Combined="Gleicheniales | Dipteris conjugata",Group="Gleicheniales",Species="Dipteris conjugata",TaxID=32108]
+	3258_AAA57239_rbcL[&Combined="Equisetales | Equisetum arvense",Group="Equisetales",Species="Equisetum arvense",TaxID=3258]
+	3262_AGC26636_rbcL[&Combined="Equisetales | Equisetum hyemale",Group="Equisetales",Species="Equisetum hyemale",TaxID=3262]
+	3284_AHA59565_rbcL[&Combined="Osmundales | Osmundastrum cinnamomeum",Group="Osmundales",Species="Osmundastrum cinnamomeum",TaxID=3284]
+	33072_BAC90097_rbcL[&Combined="Gloeobacterales | Gloeobacter violaceus",Group="Gloeobacterales",Species="Gloeobacter violaceus",TaxID=33072]
+	3329_CAA53209_rbcL[&Combined="Pinales | Picea abies",Group="Pinales",Species="Picea abies",TaxID=3329]
+	3331_AAM49707_rbcL[&Combined="Pinales | Picea pungens",Group="Pinales",Species="Picea pungens",TaxID=3331]
+	3349_ALK01248_rbcL[&Combined="Pinales | Pinus sylvestris",Group="Pinales",Species="Pinus sylvestris",TaxID=3349]
+	373994_AFY55923_rbcL[&Combined="Nostocales | Rivularia sp. PCC 7116",Group="Nostocales",Species="Rivularia sp. PCC 7116",TaxID=373994]
+	37420_AIB08516_rbcL[&Combined="Orthotrichales | Tetraphis pellucida",Group="Orthotrichales",Species="Tetraphis pellucida",TaxID=37420]
+	37425_BAI66345_rbcL[&Combined="Orthotrichales | Takakia lepidozioides",Group="Orthotrichales",Species="Takakia lepidozioides",TaxID=37425]
+	374982_AMA09473_rbcL[&Combined="Synechococcales | Synechococcus sp. PCC 73109",Group="Synechococcales",Species="Synechococcus sp. PCC 73109",TaxID=374982]
+	38861_AWD77744_rbcL[&Combined="Nymphaeales | Nuphar pumila",Group="Nymphaeales",Species="Nuphar pumila",TaxID=38861]
+	397682_AHA59686_rbcL[&Combined="Gleicheniales | Diplopterygium glaucum",Group="Gleicheniales",Species="Diplopterygium glaucum",TaxID=397682]
+	408845_BAM65606_rbcL[&Combined="Orthotrichales | Orthotrichum consobrinum",Group="Orthotrichales",Species="Orthotrichum consobrinum",TaxID=408845]
+	408846_BAM65607_rbcL[&Combined="Orthotrichales | Schlotheimia grevilleana",Group="Orthotrichales",Species="Schlotheimia grevilleana",TaxID=408846]
+	408847_BAM65609_rbcL[&Combined="Orthotrichales | Macromitrium comatum",Group="Orthotrichales",Species="Macromitrium comatum",TaxID=408847]
+	408848_BAM65610_rbcL[&Combined="Orthotrichales | Macromitrium ferriei",Group="Orthotrichales",Species="Macromitrium ferriei",TaxID=408848]
+	408849_BAM65611_rbcL[&Combined="Orthotrichales | Macromitrium gymnostomum",Group="Orthotrichales",Species="Macromitrium gymnostomum",TaxID=408849]
+	408850_BAM65612_rbcL[&Combined="Orthotrichales | Macromitrium prolongatum",Group="Orthotrichales",Species="Macromitrium prolongatum",TaxID=408850]
+	41968_BAC67001_rbcL[&Combined="Hymenophyllales | Hymenophyllum reniforme",Group="Hymenophyllales",Species="Hymenophyllum reniforme",TaxID=41968]
+	45189_CAB62905_rbcL[&Combined="Zygophyllales | Guaiacum sanctum",Group="Zygophyllales",Species="Guaiacum sanctum",TaxID=45189]
+	46220_QBK36356_rbcL[&Combined="Cupressales | Taxus brevifolia",Group="Cupressales",Species="Taxus brevifolia",TaxID=46220]
+	58033_AAP87764_rbcL[&Combined="Cycadales | Dioon edule",Group="Cycadales",Species="Dioon edule",TaxID=58033]
+	58042_ABD04207_rbcL[&Combined="Pinales | Pinus nigra",Group="Pinales",Species="Pinus nigra",TaxID=58042]
+	58829_BAC67011_rbcL[&Combined="Hymenophyllales | Trichomanes elegans",Group="Hymenophyllales",Species="Trichomanes elegans",TaxID=58829]
+	61513_AAC96038_rbcL[&Combined="Orthotrichales | Macrocoma tenuis",Group="Orthotrichales",Species="Macrocoma tenuis",TaxID=61513]
+	61547_AAC96055_rbcL[&Combined="Orthotrichales | Ulota perichaetialis",Group="Orthotrichales",Species="Ulota perichaetialis",TaxID=61547]
+	61548_AAC96037_rbcL[&Combined="Orthotrichales | Cardotiella quinquefaria",Group="Orthotrichales",Species="Cardotiella quinquefaria",TaxID=61548]
+	61549_AAC96045_rbcL[&Combined="Orthotrichales | Desmotheca apiculata",Group="Orthotrichales",Species="Desmotheca apiculata",TaxID=61549]
+	61554_AAC96041_rbcL[&Combined="Orthotrichales | Groutiella apiculata",Group="Orthotrichales",Species="Groutiella apiculata",TaxID=61554]
+	61555_AAC96040_rbcL[&Combined="Orthotrichales | Groutiella chimborazensis",Group="Orthotrichales",Species="Groutiella chimborazensis",TaxID=61555]
+	61556_AAC96039_rbcL[&Combined="Orthotrichales | Matteria papillosa",Group="Orthotrichales",Species="Matteria papillosa",TaxID=61556]
+	61558_AAC96042_rbcL[&Combined="Orthotrichales | Macromitrium incurvifolium",Group="Orthotrichales",Species="Macromitrium incurvifolium",TaxID=61558]
+	61559_AAC96043_rbcL[&Combined="Orthotrichales | Macromitrium longifolium",Group="Orthotrichales",Species="Macromitrium longifolium",TaxID=61559]
+	61560_AAC96044_rbcL[&Combined="Orthotrichales | Macromitrium richardii",Group="Orthotrichales",Species="Macromitrium richardii",TaxID=61560]
+	61562_AAC96052_rbcL[&Combined="Orthotrichales | Orthotrichum anomalum",Group="Orthotrichales",Species="Orthotrichum anomalum",TaxID=61562]
+	61563_AAC96050_rbcL[&Combined="Orthotrichales | Pulvigera lyellii",Group="Orthotrichales",Species="Pulvigera lyellii",TaxID=61563]
+	61564_AAC96051_rbcL[&Combined="Orthotrichales | Nyholmiella obtusifolia",Group="Orthotrichales",Species="Nyholmiella obtusifolia",TaxID=61564]
+	61569_AAC96036_rbcL[&Combined="Orthotrichales | Schlotheimia brownii",Group="Orthotrichales",Species="Schlotheimia brownii",TaxID=61569]
+	61570_AAC96034_rbcL[&Combined="Orthotrichales | Schlotheimia tecta",Group="Orthotrichales",Species="Schlotheimia tecta",TaxID=61570]
+	61571_AAC96035_rbcL[&Combined="Orthotrichales | Schlotheimia trichomitria",Group="Orthotrichales",Species="Schlotheimia trichomitria",TaxID=61571]
+	61578_AAC96054_rbcL[&Combined="Orthotrichales | Ulota lutea",Group="Orthotrichales",Species="Ulota lutea",TaxID=61578]
+	61579_AAC96053_rbcL[&Combined="Orthotrichales | Ulota obtusiuscula",Group="Orthotrichales",Species="Ulota obtusiuscula",TaxID=61579]
+	61582_AAC96046_rbcL[&Combined="Orthotrichales | Zygodon intermedius",Group="Orthotrichales",Species="Zygodon intermedius",TaxID=61582]
+	61583_AAC96049_rbcL[&Combined="Orthotrichales | Zygodon obtusifolius",Group="Orthotrichales",Species="Zygodon obtusifolius",TaxID=61583]
+	61584_AAC96048_rbcL[&Combined="Orthotrichales | Zygodon pungens",Group="Orthotrichales",Species="Zygodon pungens",TaxID=61584]
+	61585_AAC96047_rbcL[&Combined="Orthotrichales | Zygodon reinwardtii",Group="Orthotrichales",Species="Zygodon reinwardtii",TaxID=61585]
+	63737_ACC82570_rbcL[&Combined="Nostocales | Nostoc punctiforme PCC 73102",Group="Nostocales",Species="Nostoc punctiforme PCC 73102",TaxID=63737]
+	66627_CAA75248_rbcL[&Combined="Zygophyllales | Bulnesia arborea",Group="Zygophyllales",Species="Bulnesia arborea",TaxID=66627]
+	66636_AAY19314_rbcL[&Combined="Zygophyllales | Larrea tridentata",Group="Zygophyllales",Species="Larrea tridentata",TaxID=66636]
+	685565_BBC26154_rbcL[&Combined="Synechococcales | Pseudanabaena sp. ABRG5-3",Group="Synechococcales",Species="Pseudanabaena sp. ABRG5-3",TaxID=685565]
+	700990_QBX99125_rbcL[&Combined="Orthotrichales | Ulota bruchii",Group="Orthotrichales",Species="Ulota bruchii",TaxID=700990]
+	707766_AFS64400_rbcL[&Combined="Cycadales | Macrozamia mountperriensis",Group="Cycadales",Species="Macrozamia mountperriensis",TaxID=707766]
+	71633_AET48331_rbcL[&Combined="Pinales | Pinus halepensis",Group="Pinales",Species="Pinus halepensis",TaxID=71633]
+	72643_CAC17827_rbcL[&Combined="Commelinales | Anigozanthos flavidus",Group="Commelinales",Species="Anigozanthos flavidus",TaxID=72643]
+	82654_AFY69218_rbcL[&Combined="Synechococcales | Pseudanabaena sp. PCC 7367",Group="Synechococcales",Species="Pseudanabaena sp. PCC 7367",TaxID=82654]
+	89484_AXI98084_rbcL[&Combined="Cupressales | Cephalotaxus sinensis",Group="Cupressales",Species="Cephalotaxus sinensis",TaxID=89484]
+	90693_QCD15697_rbcL[&Combined="Osmundales | Osmunda japonica",Group="Osmundales",Species="Osmunda japonica",TaxID=90693]
+	927668_ELS32946_rbcL[&Combined="Synechococcales | Pseudanabaena biceps PCC 7429",Group="Synechococcales",Species="Pseudanabaena biceps PCC 7429",TaxID=927668]
+	945775_PZO42169_rbcL[&Combined="Synechococcales | Pseudanabaena frigida",Group="Synechococcales",Species="Pseudanabaena frigida",TaxID=945775]
+	987040_PAX60588_rbcL[&Combined="Nostocales | Calothrix elsteri CCALA 953",Group="Nostocales",Species="Calothrix elsteri CCALA 953",TaxID=987040]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((82654_AFY69218_rbcL:46.177992,(195253_AFY61139_rbcL:36.170297,((((37425_BAI66345_rbcL:11.749493,(37420_AIB08516_rbcL:7.867638,(1846180_AND48323_rbcL:6.689241,(1592803_AJD22496_rbcL:3.372183,((61562_AAC96052_rbcL:2.789518,((262976_AAS17010_rbcL:2.405904,(61563_AAC96050_rbcL:2.125788,(700990_QBX99125_rbcL:2.023102,((140636_BAM65605_rbcL:1.814849,(61579_AAC96053_rbcL:1.767527,(61584_AAC96048_rbcL:1.612425,(61556_AAC96039_rbcL:1.430669,(((61585_AAC96047_rbcL:1.18898,(61548_AAC96037_rbcL:1.143673,((408849_BAM65611_rbcL:0.954487,(408850_BAM65612_rbcL:0.845047,(408848_BAM65610_rbcL:0.779386,(301181_BAD98508_rbcL:0.703565,408847_BAM65609_rbcL:0.703565)[&95%={0.598,0.844}]:0.075821)[&95%={0.672,0.958}]:0.065661)[&95%={0.709,1.055}]:0.10944)[&95%={0.776,1.213}]:0.097433,(61549_AAC96045_rbcL:0.908536,(61558_AAC96042_rbcL:0.767326,61560_AAC96044_rbcL:0.767326)[&95%={0.621,1.022}]:0.141211)[&95%={0.705,1.199}]:0.143383)[&95%={0.841,1.349}]:0.091754)[&95%={0.902,1.49}]:0.045307)[&95%={0.938,1.548}]:0.103368,(61513_AAC96038_rbcL:1.173565,(61559_AAC96043_rbcL:0.95753,(61555_AAC96040_rbcL:0.763963,61554_AAC96041_rbcL:0.763963)[&95%={0.621,1.015}]:0.193567)[&95%={0.732,1.286}]:0.216036)[&95%={0.894,1.543}]:0.118783)[&95%={1.012,1.687}]:0.086036,(61569_AAC96036_rbcL:0.88816,(408846_BAM65607_rbcL:0.758185,(61571_AAC96035_rbcL:0.413236,(61583_AAC96049_rbcL:0.33475,(61570_AAC96034_rbcL:0.241401,61582_AAC96046_rbcL:0.241401)[&95%={0.067,0.687}]:0.093349)[&95%={0.125,0.771}]:0.078487)[&95%={0.199,0.833}]:0.344949)[&95%={0.399,1.112}]:0.129976)[&95%={0.502,1.285}]:0.490224)[&95%={1.07,1.816}]:0.052285)[&95%={1.103,1.893}]:0.181756)[&95%={1.218,2.175}]:0.155102)[&95%={1.311,2.409}]:0.047322)[&95%={1.343,2.485}]:0.12528,(61578_AAC96054_rbcL:1.027509,61547_AAC96055_rbcL:1.027509)[&95%={0.667,1.757}]:0.91262)[&95%={1.424,2.685}]:0.082972)[&95%={1.475,2.823}]:0.102686)[&95%={1.537,2.986}]:0.280116)[&95%={1.715,3.437}]:0.129313,(61564_AAC96051_rbcL:0.964343,122744_AAG53561_rbcL:0.964343)[&95%={0.433,2.235}]:1.570874)[&95%={1.787,3.656}]:0.254301)[&95%={1.938,4.116}]:0.206143,((1903712_QBX99043_rbcL:0.9916,(262978_AAS17011_rbcL:0.829225,262980_AAS17012_rbcL:0.829225)[&95%={0.64,1.246}]:0.162375)[&95%={0.703,1.563}]:0.853543,(408845_BAM65606_rbcL:1.118771,2564002_QBX99207_rbcL:1.118771)[&95%={0.612,2.158}]:0.726371)[&95%={1.006,3.175}]:1.150518)[&95%={2.044,4.506}]:0.376522)[&95%={2.214,5.336}]:3.317058)[&95%={3.471,12.338}]:1.178397)[&95%={3.926,14.277}]:3.881855)[&95%={5.89,20.059}]:5.02779,((((46220_QBK36356_rbcL:3.685496,(((((182487_AAP87765_rbcL:0.86951,(58033_AAP87764_rbcL:0.497741,115877_BAR93643_rbcL:0.497741)[&95%={0.007,1.012}]:0.371769)[&95%={0.655,1.281}]:0.418358,(114456_AAP87766_rbcL:0.873456,707766_AFS64400_rbcL:0.873456)[&95%={0.647,1.334}]:0.414412)[&95%={0.871,1.983}]:0.960532,(147282_AFZ65553_rbcL:0.969271,89484_AXI98084_rbcL:0.969271)[&95%={0.658,1.667}]:1.279129)[&95%={1.361,3.885}]:0.306372,(71633_AET48331_rbcL:1.095701,(58042_ABD04207_rbcL:0.828188,3349_ALK01248_rbcL:0.828188)[&95%={0.633,1.241}]:0.267513)[&95%={0.734,1.785}]:1.459071)[&95%={1.518,4.462}]:0.82939,(120273_AHL69546_rbcL:1.141911,1982072_QBK36602_rbcL:1.141911)[&95%={0.656,2.556}]:2.242251)[&95%={1.877,6.097}]:0.301334)[&95%={2.023,6.61}]:3.304376,(3331_AAM49707_rbcL:1.25176,3329_CAA53209_rbcL:1.25176)[&95%={0.678,2.88}]:5.738113)[&95%={3.505,12.314}]:3.970028,((((45189_CAB62905_rbcL:1.720403,(66636_AAY19314_rbcL:1.031995,66627_CAA75248_rbcL:1.031995)[&95%={0.667,1.869}]:0.688408)[&95%={0.917,3.287}]:2.039686,(151847_AAK70983_rbcL:0.956349,29755_CAB85661_rbcL:0.956349)[&95%={0.65,1.735}]:2.80374)[&95%={1.813,6.889}]:1.956738,((13644_AAA92924_rbcL:2.3031,(306635_AAX18750_rbcL:1.208618,306637_AAX18751_rbcL:1.208618)[&95%={0.689,2.372}]:1.094482)[&95%={1.13,4.511}]:1.195594,(114198_CAB71925_rbcL:1.017613,72643_CAC17827_rbcL:1.017613)[&95%={0.661,1.912}]:2.481081)[&95%={1.746,6.387}]:2.218133)[&95%={3.149,9.467}]:1.695514,(13333_AAA92149_rbcL:3.854086,((2173159_AWD77659_rbcL:0.959786,38861_AWD77744_rbcL:0.959786)[&95%={0.654,1.663}]:0.795465,(310672_AYE67957_rbcL:0.910687,296032_AYE68046_rbcL:0.910687)[&95%={0.649,1.533}]:0.844564)[&95%={0.982,3.399}]:2.098836)[&95%={1.687,7.644}]:3.558254)[&95%={4.209,12.128}]:3.54756)[&95%={6.588,17.559}]:3.517089,(((((191650_BAC66999_rbcL:1.283591,41968_BAC67001_rbcL:1.283591)[&95%={0.692,2.706}]:2.001719,(58829_BAC67011_rbcL:1.393645,1481379_QAV57667_rbcL:1.393645)[&95%={0.703,2.986}]:1.891664)[&95%={1.541,6.448}]:2.065651,(32108_AXX76473_rbcL:2.569107,397682_AHA59686_rbcL:2.569107)[&95%={0.839,6.177}]:2.781853)[&95%={2.585,9.699}]:2.158519,(3284_AHA59565_rbcL:1.852255,90693_QCD15697_rbcL:1.852255)[&95%={0.719,5.044}]:5.657225)[&95%={3.87,12.713}]:2.908106,(3262_AGC26636_rbcL:1.592118,3258_AAA57239_rbcL:1.592118)[&95%={0.702,4.261}]:8.825468)[&95%={5.749,17.03}]:4.059404)[&95%={8.919,22.554}]:2.300293)[&95%={10.38,25.852}]:7.203931,((1973483_BAY31787_rbcL:11.73785,(272123_AFZ55644_rbcL:9.590238,(373994_AFY55923_rbcL:7.809794,((1710888_OBQ36830_rbcL:4.729368,(1137087_BBD65873_rbcL:3.016462,(2653204_QFS49268_rbcL:2.483073,(63737_ACC82570_rbcL:1.914143,(1647413_ALB41756_rbcL:1.155863,(1710891_OBQ10764_rbcL:0.827436,1710886_OBQ36220_rbcL:0.827436)[&95%={0.635,1.237}]:0.328428)[&95%={0.77,1.844}]:0.75828)[&95%={1.082,3.378}]:0.56893)[&95%={1.363,4.378}]:0.533389)[&95%={1.63,5.368}]:1.712906)[&95%={2.437,8.373}]:0.83019,(1628751_PHK41354_rbcL:3.072081,(1973475_BAY39546_rbcL:1.603417,1973485_BAY93896_rbcL:1.603417)[&95%={0.724,3.515}]:1.468664)[&95%={1.298,6.142}]:2.487477)[&95%={2.924,9.661}]:2.250236)[&95%={4.033,13.62}]:1.780444)[&95%={5.016,16.47}]:2.147611)[&95%={6.14,19.901}]:4.665271,(2005462_BAZ04846_rbcL:10.222753,((2005461_BAZ42712_rbcL:3.711755,(1170562_AFZ01992_rbcL:2.11786,987040_PAX60588_rbcL:2.11786)[&95%={0.709,5.856}]:1.593894)[&95%={1.175,8.929}]:2.765419,(2005469_BAZ16966_rbcL:0.964669,2005463_BAZ63111_rbcL:0.964669)[&95%={0.649,1.77}]:5.512505)[&95%={2.299,13.806}]:3.74558)[&95%={4.1,19.406}]:6.180368)[&95%={8.855,26.965}]:7.578092)[&95%={14.375,38.65}]:5.954076,((((1980935_OYQ65395_rbcL:3.824649,(1153_PZU95930_rbcL:2.961946,(945775_PZO42169_rbcL:1.871945,(1153_PZV11582_rbcL:1.423493,(685565_BBC26154_rbcL:1.000748,927668_ELS32946_rbcL:1.000748)[&95%={0.537,2.048}]:0.422745)[&95%={0.769,2.871}]:0.448452)[&95%={0.976,3.759}]:1.090002)[&95%={1.385,6.196}]:0.862703)[&95%={1.73,7.808}]:6.090924,(195498_ANV87636_rbcL:1.238645,(2579791_QCS50341_rbcL:0.658886,(32049_ACA99786_rbcL:0.498282,(195248_ANV90809_rbcL:0.076937,374982_AMA09473_rbcL:0.076937)[&95%={0.009,0.319}]:0.421345)[&95%={0.099,1.089}]:0.160604)[&95%={0.201,1.427}]:0.579759)[&95%={0.689,2.535}]:8.676928)[&95%={4.261,19.763}]:4.724338,(2219813_AZB73040_rbcL:2.737284,(1140_ABB57456_rbcL:0.914925,269084_BAD78320_rbcL:0.914925)[&95%={0.642,1.608}]:1.822359)[&95%={1.032,7.413}]:11.902627)[&95%={6.702,28.302}]:6.161712,(1880902_OCQ98652_rbcL:0.996225,1704291_PIB07953_rbcL:0.996225)[&95%={0.655,1.943}]:19.805398)[&95%={9.765,37.673}]:9.133666)[&95%={17.58,48.897}]:6.235008)[&95%={20.68,62.017}]:10.007695)[&95%={25.23,84.334}]:21.891024,(1416614_AGY56915_rbcL:8.400416,33072_BAC90097_rbcL:8.400416)[&95%={1.169,31.286}]:59.6686)[&95%={32.984,142.734}];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName=".SF NS Text";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=2.0;
+	set nodeBars.displayAttribute="95%";
+	set nodeBars.isShown=true;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="95%";
+	set nodeLabels.fontName=".SF NS Text";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=2;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=true;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=25.0;
+	set scaleAxis.minorTicks=5.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=true;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Species";
+	set tipLabels.fontName=".SF NS Text";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=2;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

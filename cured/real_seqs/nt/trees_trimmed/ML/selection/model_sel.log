@@ -1,0 +1,378 @@
+IQ-TREE multicore version 1.6.12 for Mac OS X 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    margulis.local (AVX2, FMA3, 8 GB RAM)
+Command: iqtree -s nt_trimmed.phy -bb 2000 -st DNA -m TEST -t BIONJ -o 758802_AQT80891_rbcL -mem 4G -wt -pre model_sel
+Seed:    112056 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed May 27 17:29:11 2020
+Kernel:  AVX+FMA - 1 threads (4 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file nt_trimmed.phy ... Phylip format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 126 sequences with 1319 columns, 821 distinct patterns
+795 parsimony-informative, 79 singleton sites, 445 constant sites
+                       Gap/Ambiguity  Composition  p-value
+   1  191650_BAC66999_rbcL     0.00%    passed     34.98%
+   2  41968_BAC67001_rbcL      0.00%    passed     16.03%
+   3  58829_BAC67011_rbcL      0.00%    passed     23.55%
+   4  301181_BAD98508_rbcL     0.00%    failed      0.00%
+   5  140636_BAM65605_rbcL     0.00%    failed      0.00%
+   6  408845_BAM65606_rbcL     0.00%    failed      0.00%
+   7  408846_BAM65607_rbcL     0.00%    failed      0.00%
+   8  408847_BAM65609_rbcL     0.00%    failed      0.00%
+   9  408848_BAM65610_rbcL     0.00%    failed      0.00%
+  10  408849_BAM65611_rbcL     0.00%    failed      0.00%
+  11  408850_BAM65612_rbcL     0.00%    failed      0.00%
+  12  37425_BAI66345_rbcL      0.00%    passed     72.14%
+  13  61570_AAC96034_rbcL      2.20%    failed      0.00%
+  14  61571_AAC96035_rbcL      2.20%    failed      0.00%
+  15  61569_AAC96036_rbcL      2.20%    failed      0.00%
+  16  61548_AAC96037_rbcL      2.05%    failed      0.00%
+  17  61513_AAC96038_rbcL      2.05%    failed      0.00%
+  18  61556_AAC96039_rbcL      2.27%    failed      0.00%
+  19  61555_AAC96040_rbcL      2.12%    failed      0.00%
+  20  61554_AAC96041_rbcL      2.27%    failed      0.00%
+  21  61558_AAC96042_rbcL      2.12%    failed      0.00%
+  22  61559_AAC96043_rbcL      2.05%    failed      0.00%
+  23  61560_AAC96044_rbcL      2.05%    failed      0.00%
+  24  61549_AAC96045_rbcL      2.12%    failed      0.00%
+  25  61582_AAC96046_rbcL      2.05%    failed      0.00%
+  26  61585_AAC96047_rbcL      2.05%    failed      0.00%
+  27  61584_AAC96048_rbcL      2.05%    failed      0.00%
+  28  61583_AAC96049_rbcL      2.20%    failed      0.00%
+  29  61563_AAC96050_rbcL      2.05%    failed      0.00%
+  30  61564_AAC96051_rbcL      2.20%    failed      0.00%
+  31  61562_AAC96052_rbcL      2.05%    failed      0.00%
+  32  61579_AAC96053_rbcL      2.12%    failed      0.00%
+  33  61578_AAC96054_rbcL      2.12%    failed      0.00%
+  34  61547_AAC96055_rbcL      2.12%    failed      0.00%
+  35  122744_AAG53561_rbcL     1.36%    failed      0.00%
+  36  151847_AAK70983_rbcL     0.00%    passed     54.06%
+  37  3331_AAM49707_rbcL       0.00%    passed     48.17%
+  38  58033_AAP87764_rbcL      0.00%    passed     90.59%
+  39  182487_AAP87765_rbcL     0.00%    passed     89.64%
+  40  114456_AAP87766_rbcL     0.00%    passed     91.73%
+  41  45189_CAB62905_rbcL      0.00%    passed     10.95%
+  42  29755_CAB85661_rbcL      0.00%    passed     54.06%
+  43  114198_CAB71925_rbcL     0.00%    passed     14.78%
+  44  72643_CAC17827_rbcL      0.00%    passed     20.47%
+  45  927668_ELS32946_rbcL     0.00%    failed      0.00%
+  46  269084_BAD78320_rbcL     0.15%    failed      0.00%
+  47  685565_BBC26154_rbcL     0.00%    failed      0.03%
+  48  1973483_BAY31787_rbcL    0.00%    failed      0.56%
+  49  1973475_BAY39546_rbcL    0.00%    failed      0.15%
+  50  1973485_BAY93896_rbcL    0.00%    failed      0.90%
+  51  2005462_BAZ04846_rbcL    0.00%    failed      0.71%
+  52  2005469_BAZ16966_rbcL    0.00%    passed     10.04%
+  53  2005461_BAZ42712_rbcL    0.00%    failed      3.50%
+  54  2005463_BAZ63111_rbcL    0.00%    passed     10.04%
+  55  1137087_BBD65873_rbcL    0.00%    failed      0.08%
+  56  262976_AAS17010_rbcL     2.05%    failed      0.00%
+  57  262978_AAS17011_rbcL     2.05%    failed      0.00%
+  58  262980_AAS17012_rbcL     2.05%    failed      0.00%
+  59  306635_AAX18750_rbcL     0.00%    passed      5.90%
+  60  306637_AAX18751_rbcL     0.00%    failed      1.40%
+  61  66636_AAY19314_rbcL      0.00%    passed      8.42%
+  62  33072_BAC90097_rbcL      0.15%    failed      0.00%
+  63  1140_ABB57456_rbcL       0.15%    failed      0.00%
+  64  32049_ACA99786_rbcL      0.15%    failed      0.00%
+  65  63737_ACC82570_rbcL      0.00%    failed      0.02%
+  66  373994_AFY55923_rbcL     0.00%    passed     40.99%
+  67  195253_AFY61139_rbcL     0.15%    failed      0.00%
+  68  1416614_AGY56915_rbcL    0.15%    failed      0.00%
+  69  82654_AFY69218_rbcL      0.30%    failed      0.00%
+  70  1170562_AFZ01992_rbcL    0.00%    failed      2.03%
+  71  272123_AFZ55644_rbcL     0.00%    failed      1.49%
+  72  1647413_ALB41756_rbcL    0.00%    failed      4.35%
+  73  374982_AMA09473_rbcL     0.15%    failed      0.00%
+  74  195498_ANV87636_rbcL     0.15%    failed      0.00%
+  75  195248_ANV90809_rbcL     0.15%    failed      0.00%
+  76  37332_APA98613_rbcL      0.53%    failed      0.00%
+  77  2213200_APE34591_rbcL    0.68%    failed      0.00%
+  78  758802_AQT80891_rbcL     0.68%    failed      0.00%
+  79  455432_ATL67803_rbcL     0.76%    failed      0.00%
+  80  2219813_AZB73040_rbcL    0.15%    failed      0.00%
+  81  2579791_QCS50341_rbcL    0.15%    failed      0.00%
+  82  1823_QDP79558_rbcL       0.83%    failed      0.00%
+  83  2653204_QFS49268_rbcL    0.00%    failed      0.00%
+  84  58042_ABD04207_rbcL      0.00%    passed     48.55%
+  85  135487_CCF64008_rbcL     0.76%    failed      0.00%
+  86  71633_AET48331_rbcL      0.00%    passed     53.32%
+  87  707766_AFS64400_rbcL     0.00%    passed     89.15%
+  88  3262_AGC26636_rbcL       0.00%    failed      0.09%
+  89  147282_AFZ65553_rbcL     0.00%    passed     36.48%
+  90  3284_AHA59565_rbcL       0.00%    passed     13.53%
+  91  397682_AHA59686_rbcL     0.00%    passed     43.65%
+  92  120273_AHL69546_rbcL     0.00%    passed     78.80%
+  93  37420_AIB08516_rbcL      0.00%    failed      0.00%
+  94  1592803_AJD22496_rbcL    0.00%    failed      0.00%
+  95  3349_ALK01248_rbcL       0.00%    passed     52.63%
+  96  1846180_AND48323_rbcL    0.00%    passed     22.71%
+  97  3258_AAA57239_rbcL       0.00%    failed      0.10%
+  98  13333_AAA92149_rbcL      0.00%    passed     92.27%
+  99  1628751_PHK41354_rbcL    0.00%    failed      0.00%
+ 100  115877_BAR93643_rbcL     0.00%    passed     91.88%
+ 101  1704291_PIB07953_rbcL    0.15%    failed      0.00%
+ 102  1710891_OBQ10764_rbcL    0.00%    failed      2.42%
+ 103  1710888_OBQ36830_rbcL    0.00%    failed      1.48%
+ 104  1710886_OBQ36220_rbcL    0.00%    failed      1.19%
+ 105  1880902_OCQ98652_rbcL    0.15%    failed      0.00%
+ 106  89484_AXI98084_rbcL      0.00%    passed     40.01%
+ 107  310672_AYE67957_rbcL     0.00%    passed     64.25%
+ 108  296032_AYE68046_rbcL     0.00%    passed     68.12%
+ 109  2173159_AWD77659_rbcL    0.00%    passed     52.22%
+ 110  38861_AWD77744_rbcL      0.00%    passed     54.00%
+ 111  32108_AXX76473_rbcL      0.00%    passed      9.69%
+ 112  1481379_QAV57667_rbcL    0.00%    passed     46.31%
+ 113  46220_QBK36356_rbcL      0.00%    passed     75.65%
+ 114  1982072_QBK36602_rbcL    0.00%    passed     73.79%
+ 115  1903712_QBX99043_rbcL    0.00%    failed      0.00%
+ 116  700990_QBX99125_rbcL     0.00%    failed      0.00%
+ 117  2564002_QBX99207_rbcL    0.00%    failed      0.00%
+ 118  90693_QCD15697_rbcL      0.00%    passed     35.50%
+ 119  1980935_OYQ65395_rbcL    0.00%    failed      0.02%
+ 120  987040_PAX60588_rbcL     0.00%    failed      0.50%
+ 121  1153_PZU95930_rbcL       0.00%    failed      0.03%
+ 122  1153_PZV11582_rbcL       0.00%    failed      0.01%
+ 123  945775_PZO42169_rbcL     0.00%    failed      0.02%
+ 124  13644_AAA92924_rbcL      0.38%    passed     16.50%
+ 125  3329_CAA53209_rbcL       0.00%    passed     63.36%
+ 126  66627_CAA75248_rbcL      0.00%    failed      4.03%
+****  TOTAL                    0.48%  85 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: 29755_CAB85661_rbcL is identical to 151847_AAK70983_rbcL but kept for subsequent analysis
+NOTE: 1140_ABB57456_rbcL is identical to 269084_BAD78320_rbcL but kept for subsequent analysis
+NOTE: 2005463_BAZ63111_rbcL is identical to 2005469_BAZ16966_rbcL but kept for subsequent analysis
+NOTE: 1880902_OCQ98652_rbcL is identical to 1704291_PIB07953_rbcL but kept for subsequent analysis
+Computing Juke-Cantor distances...
+WARNING: ZERO distance between sequences 151847_AAK70983_rbcL, 29755_CAB85661_rbcL
+WARNING: ZERO distance between sequences 269084_BAD78320_rbcL, 1140_ABB57456_rbcL
+WARNING: ZERO distance between sequences 2005469_BAZ16966_rbcL, 2005463_BAZ63111_rbcL
+WARNING: ZERO distance between sequences 262980_AAS17012_rbcL, 1903712_QBX99043_rbcL
+WARNING: ZERO distance between sequences 1704291_PIB07953_rbcL, 1880902_OCQ98652_rbcL
+
+Computing BIONJ tree...
+0.012 seconds
+WARNING: 3 undefined/negative branch lengths are initialized with parsimony
+NOTE: ModelFinder requires 19 MB RAM!
+ModelFinder will test 88 DNA models (sample size: 1319) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  JC            36875.348    249 74248.696    74365.160    75539.669
+  2  JC+I          34661.833    250 69823.667    69941.176    71119.824
+  3  JC+G4         33347.506    250 67195.012    67312.521    68491.169
+  4  JC+I+G4       33306.604    251 67115.208    67233.769    68416.550
+  5  F81+F         36990.108    252 74484.216    74603.833    75790.743
+  6  F81+F+I       34779.066    253 70064.132    70184.812    71375.843
+  7  F81+F+G4      33472.120    253 67450.240    67570.919    68761.951
+  8  F81+F+I+G4    33432.414    254 67372.828    67494.576    68689.724
+  9  K2P           35942.806    250 72385.613    72503.122    73681.770
+ 10  K2P+I         33690.763    251 67883.525    68002.086    69184.867
+ 11  K2P+G4        32289.574    251 65081.149    65199.709    66382.491
+ 12  K2P+I+G4      32236.834    252 64977.668    65097.285    66284.194
+ 13  HKY+F         36056.854    253 72619.708    72740.388    73931.420
+ 14  HKY+F+I       33801.800    254 68111.599    68233.347    69428.495
+ 15  HKY+F+G4      32406.592    254 65321.183    65442.931    66638.079
+ 16  HKY+F+I+G4    32353.853    255 65217.707    65340.529    66539.787
+ 17  TNe           35726.804    251 71955.609    72074.169    73256.951
+ 18  TNe+I         33617.129    252 67738.258    67857.875    69044.784
+ 19  TNe+G4        32241.824    252 64987.648    65107.265    66294.175
+ 20  TNe+I+G4      32185.114    253 64876.227    64996.907    66187.938
+ 21  TN+F          35830.102    254 72168.203    72289.951    73485.099
+ 22  TN+F+I        33724.546    255 67959.093    68081.915    69281.173
+ 23  TN+F+G4       32348.526    255 65207.053    65329.875    66529.133
+ 24  TN+F+I+G4     32295.285    256 65102.570    65226.472    66429.835
+ 25  K3P           35919.512    251 72341.024    72459.585    73642.366
+ 26  K3P+I         33668.693    252 67841.387    67961.004    69147.913
+ 27  K3P+G4        32278.293    252 65060.586    65180.203    66367.112
+ 28  K3P+I+G4      32226.949    253 64959.898    65080.578    66271.609
+ 29  K3Pu+F        36033.403    254 72574.806    72696.554    73891.702
+ 30  K3Pu+F+I      33782.267    255 68074.534    68197.356    69396.615
+ 31  K3Pu+F+G4     32397.532    255 65305.064    65427.886    66627.145
+ 32  K3Pu+F+I+G4   32346.126    256 65204.252    65328.154    66531.517
+ 33  TPM2+F        36056.277    254 72620.553    72742.301    73937.449
+ 34  TPM2+F+I      33794.834    255 68099.668    68222.490    69421.748
+ 35  TPM2+F+G4     32402.024    255 65314.048    65436.870    66636.128
+ 36  TPM2+F+I+G4   32349.768    256 65211.536    65335.438    66538.801
+ 37  TPM2u+F       36056.277    254 72620.554    72742.302    73937.450
+ 38  TPM2u+F+I     33794.834    255 68099.668    68222.490    69421.748
+ 39  TPM2u+F+G4    32402.025    255 65314.049    65436.872    66636.130
+ 40  TPM2u+F+I+G4  32349.764    256 65211.528    65335.430    66538.793
+ 41  TPM3+F        36015.478    254 72538.956    72660.704    73855.851
+ 42  TPM3+F+I      33768.518    255 68047.036    68169.858    69369.116
+ 43  TPM3+F+G4     32366.649    255 65243.297    65366.119    66565.378
+ 44  TPM3+F+I+G4   32314.473    256 65140.945    65264.847    66468.210
+ 45  TPM3u+F       36015.478    254 72538.957    72660.705    73855.853
+ 46  TPM3u+F+I     33768.518    255 68047.036    68169.858    69369.117
+ 47  TPM3u+F+G4    32366.647    255 65243.293    65366.115    66565.374
+ 48  TPM3u+F+I+G4  32314.491    256 65140.982    65264.884    66468.247
+ 49  TIMe          35703.662    252 71911.324    72030.941    73217.850
+ 50  TIMe+I        33595.057    253 67696.114    67816.794    69007.825
+ 51  TIMe+G4       32230.146    253 64966.292    65086.972    66278.003
+ 52  TIMe+I+G4     32174.855    254 64857.711    64979.459    66174.607
+ 53  TIM+F         35806.885    255 72123.771    72246.593    73445.851
+ 54  TIM+F+I       33705.036    256 67922.073    68045.975    69249.338
+ 55  TIM+F+G4      32339.741    256 65191.483    65315.385    66518.748
+ 56  TIM+F+I+G4    32287.473    257 65088.946    65213.934    66421.396
+ 57  TIM2e         35726.806    252 71957.611    72077.228    73264.138
+ 58  TIM2e+I       33614.216    253 67734.433    67855.113    69046.144
+ 59  TIM2e+G4      32240.697    253 64987.395    65108.075    66299.106
+ 60  TIM2e+I+G4    32184.408    254 64876.815    64998.563    66193.711
+ 61  TIM2+F        35829.374    255 72168.749    72291.571    73490.829
+ 62  TIM2+F+I      33717.156    256 67946.311    68070.213    69273.576
+ 63  TIM2+F+G4     32342.100    256 65196.201    65320.103    66523.466
+ 64  TIM2+F+I+G4   32289.926    257 65093.853    65218.840    66426.302
+ 65  TIM3e         35716.933    252 71937.866    72057.483    73244.392
+ 66  TIM3e+I       33608.484    253 67722.968    67843.648    69034.680
+ 67  TIM3e+G4      32230.518    253 64967.035    65087.715    66278.746
+ 68  TIM3e+I+G4    32175.438    254 64858.877    64980.625    66175.773
+ 69  TIM3+F        35788.926    255 72087.851    72210.673    73409.931
+ 70  TIM3+F+I      33691.768    256 67895.536    68019.439    69222.802
+ 71  TIM3+F+G4     32303.761    256 65119.523    65243.425    66446.788
+ 72  TIM3+F+I+G4   32253.093    257 65020.187    65145.174    66352.636
+ 73  TVMe          35909.457    253 72324.914    72445.594    73636.625
+ 74  TVMe+I        33656.171    254 67820.342    67942.090    69137.238
+ 75  TVMe+G4       32264.932    254 65037.863    65159.612    66354.759
+ 76  TVMe+I+G4     32214.489    255 64938.978    65061.800    66261.058
+ 77  TVM+F         35991.305    256 72494.609    72618.511    73821.874
+ 78  TVM+F+I       33739.218    257 67992.436    68117.424    69324.886
+ 79  TVM+F+G4      32347.061    257 65208.121    65333.109    66540.571
+ 80  TVM+F+I+G4    32296.907    258 65109.814    65235.893    66447.448
+ 81  SYM           35693.901    254 71895.802    72017.550    73212.698
+ 82  SYM+I         33582.622    255 67675.244    67798.067    68997.325
+ 83  SYM+G4        32214.983    255 64939.966    65062.788    66262.046
+ 84  SYM+I+G4      32161.898    256 64835.797    64959.699    66163.062
+ 85  GTR+F         35764.679    257 72043.358    72168.345    73375.807
+ 86  GTR+F+I       33662.005    258 67840.011    67966.090    69177.645
+ 87  GTR+F+G4      32281.744    258 65079.487    65205.567    66417.122
+ 88  GTR+F+I+G4    32233.346    259 64984.692    65111.868    66327.511
+Akaike Information Criterion:           SYM+I+G4
+Corrected Akaike Information Criterion: SYM+I+G4
+Bayesian Information Criterion:         SYM+I+G4
+Best-fit model: SYM+I+G4 chosen according to BIC
+
+All model information printed to model_sel.model.gz
+CPU time for ModelFinder: 27.454 seconds (0h:0m:27s)
+Wall-clock time for ModelFinder: 27.676 seconds (0h:0m:27s)
+Generating 2000 samples for ultrafast bootstrap (seed: 112056)...
+
+NOTE: 19 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 0.441 / LogL: -32214.961
+Init pinv, alpha: 0.037, 1.000 / Estimate: 0.263, 0.865 / LogL: -32161.948
+Init pinv, alpha: 0.075, 1.000 / Estimate: 0.262, 0.863 / LogL: -32161.958
+Init pinv, alpha: 0.112, 1.000 / Estimate: 0.264, 0.867 / LogL: -32161.938
+Init pinv, alpha: 0.150, 1.000 / Estimate: 0.263, 0.864 / LogL: -32161.967
+Init pinv, alpha: 0.187, 1.000 / Estimate: 0.263, 0.864 / LogL: -32161.959
+Init pinv, alpha: 0.225, 1.000 / Estimate: 0.263, 0.864 / LogL: -32161.957
+Init pinv, alpha: 0.262, 1.000 / Estimate: 0.268, 0.885 / LogL: -32161.881
+Init pinv, alpha: 0.300, 1.000 / Estimate: 0.272, 0.897 / LogL: -32161.947
+Init pinv, alpha: 0.337, 1.000 / Estimate: 0.272, 0.896 / LogL: -32161.938
+Optimal pinv,alpha: 0.268, 0.885 / LogL: -32161.881
+
+Parameters optimization took 16.497 sec
+Computing ML distances based on estimated model parameters... 0.247 sec
+Computing BIONJ tree...
+0.012 seconds
+Estimate model parameters (epsilon = 0.100)
+Log-likelihood of BIONJ tree: -32306.720
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -32034.225
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -32013.437
+Finish initializing candidate tree set (4)
+Current best tree score: -32013.437 / CPU time: 2.579
+Number of iterations: 2
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -32010.958
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -32003.226
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 8: -32002.554
+Iteration 10 / LogL: -32009.057 / Time: 0h:0m:28s
+Iteration 20 / LogL: -32124.373 / Time: 0h:0m:37s
+UPDATE BEST LOG-LIKELIHOOD: -32002.553
+Iteration 30 / LogL: -32010.594 / Time: 0h:0m:45s (0h:2m:2s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 32: -31996.845
+Iteration 40 / LogL: -32018.022 / Time: 0h:0m:56s (0h:2m:12s left)
+Iteration 50 / LogL: -31997.410 / Time: 0h:1m:5s (0h:1m:49s left)
+Log-likelihood cutoff on original alignment: -32065.103
+Iteration 60 / LogL: -31998.711 / Time: 0h:1m:14s (0h:1m:31s left)
+UPDATE BEST LOG-LIKELIHOOD: -31996.839
+Iteration 70 / LogL: -32037.212 / Time: 0h:1m:23s (0h:1m:14s left)
+Iteration 80 / LogL: -31997.015 / Time: 0h:1m:32s (0h:1m:0s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 81: -31996.657
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 89: -31996.298
+Iteration 90 / LogL: -31996.941 / Time: 0h:1m:41s (0h:1m:52s left)
+Iteration 100 / LogL: -31997.427 / Time: 0h:1m:49s (0h:1m:38s left)
+Log-likelihood cutoff on original alignment: -32065.103
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -32266.064 / Time: 0h:1m:59s (0h:1m:38s left)
+Iteration 120 / LogL: -31996.627 / Time: 0h:2m:7s (0h:1m:26s left)
+Iteration 130 / LogL: -31996.816 / Time: 0h:2m:16s (0h:1m:13s left)
+Iteration 140 / LogL: -31996.621 / Time: 0h:2m:25s (0h:1m:2s left)
+Iteration 150 / LogL: -31997.125 / Time: 0h:2m:34s (0h:0m:51s left)
+Log-likelihood cutoff on original alignment: -32065.103
+Iteration 160 / LogL: -32000.154 / Time: 0h:2m:45s (0h:0m:41s left)
+Iteration 170 / LogL: -32002.110 / Time: 0h:2m:54s (0h:0m:30s left)
+Iteration 180 / LogL: -31996.544 / Time: 0h:3m:2s (0h:0m:20s left)
+Iteration 190 / LogL: -31996.546 / Time: 0h:3m:11s (0h:0m:10s left)
+TREE SEARCH COMPLETED AFTER 190 ITERATIONS / Time: 0h:3m:11s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -31996.298
+Optimal log-likelihood: -31996.295
+Rate parameters:  A-C: 1.23316  A-G: 3.59646  A-T: 1.22091  C-G: 1.67441  C-T: 5.67808  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.250  G: 0.250  T: 0.250
+Proportion of invariable sites: 0.263
+Gamma shape alpha: 0.857
+Parameters optimization took 1 rounds (0.170 sec)
+BEST SCORE FOUND : -31996.295
+Creating bootstrap support values...
+Split supports printed to NEXUS file model_sel.splits.nex
+Total tree length: 6.950
+
+Total number of iterations: 190
+CPU time used for tree search: 169.450 sec (0h:2m:49s)
+Wall-clock time used for tree search: 173.550 sec (0h:2m:53s)
+Total CPU time used: 187.972 sec (0h:3m:7s)
+Total wall-clock time used: 192.227 sec (0h:3m:12s)
+
+Computing bootstrap consensus tree...
+Reading input file model_sel.splits.nex...
+126 taxa and 543 splits.
+Consensus tree written to model_sel.contree
+Reading input trees file model_sel.contree
+Log-likelihood of consensus tree: -31996.647
+
+Analysis results written to: 
+  IQ-TREE report:                model_sel.iqtree
+  Maximum-likelihood tree:       model_sel.treefile
+  BIONJ tree:                    model_sel.bionj
+  Likelihood distances:          model_sel.mldist
+  All intermediate trees:        model_sel.treels
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          model_sel.splits.nex
+  Consensus tree:                model_sel.contree
+  Screen log file:               model_sel.log
+
+Date and Time: Wed May 27 17:32:51 2020

@@ -1,0 +1,127 @@
+taxa	Group	Species	Combined	TaxID
+135487_CCF64008_rbcL	Corynebacteriales	Nocardia cyriacigeorgica	Corynebacteriales | Nocardia cyriacigeorgica	135487
+2213200_APE34591_rbcL	Corynebacteriales	Nocardia mangyaensis	Corynebacteriales | Nocardia mangyaensis	2213200
+1823_QDP79558_rbcL	Corynebacteriales	Nocardia otitidiscaviarum	Corynebacteriales | Nocardia otitidiscaviarum	1823
+37332_APA98613_rbcL	Corynebacteriales	Nocardia seriolae	Corynebacteriales | Nocardia seriolae	37332
+455432_ATL67803_rbcL	Corynebacteriales	Nocardia terpenica	Corynebacteriales | Nocardia terpenica	455432
+758802_AQT80891_rbcL	Corynebacteriales	Mycolicibacterium litorale	Corynebacteriales | Mycolicibacterium litorale	758802
+61548_AAC96037_rbcL	Orthotrichales	Cardotiella quinquefaria	Orthotrichales | Cardotiella quinquefaria	61548
+61549_AAC96045_rbcL	Orthotrichales	Desmotheca apiculata	Orthotrichales | Desmotheca apiculata	61549
+61554_AAC96041_rbcL	Orthotrichales	Groutiella apiculata	Orthotrichales | Groutiella apiculata	61554
+61555_AAC96040_rbcL	Orthotrichales	Groutiella chimborazensis	Orthotrichales | Groutiella chimborazensis	61555
+2564002_QBX99207_rbcL	Orthotrichales	Lewinskya incana	Orthotrichales | Lewinskya incana	2564002
+61513_AAC96038_rbcL	Orthotrichales	Macrocoma tenuis	Orthotrichales | Macrocoma tenuis	61513
+408847_BAM65609_rbcL	Orthotrichales	Macromitrium comatum	Orthotrichales | Macromitrium comatum	408847
+408848_BAM65610_rbcL	Orthotrichales	Macromitrium ferriei	Orthotrichales | Macromitrium ferriei	408848
+408849_BAM65611_rbcL	Orthotrichales	Macromitrium gymnostomum	Orthotrichales | Macromitrium gymnostomum	408849
+61558_AAC96042_rbcL	Orthotrichales	Macromitrium incurvifolium	Orthotrichales | Macromitrium incurvifolium	61558
+301181_BAD98508_rbcL	Orthotrichales	Macromitrium japonicum	Orthotrichales | Macromitrium japonicum	301181
+61559_AAC96043_rbcL	Orthotrichales	Macromitrium longifolium	Orthotrichales | Macromitrium longifolium	61559
+408850_BAM65612_rbcL	Orthotrichales	Macromitrium prolongatum	Orthotrichales | Macromitrium prolongatum	408850
+61560_AAC96044_rbcL	Orthotrichales	Macromitrium richardii	Orthotrichales | Macromitrium richardii	61560
+61556_AAC96039_rbcL	Orthotrichales	Matteria papillosa	Orthotrichales | Matteria papillosa	61556
+61564_AAC96051_rbcL	Orthotrichales	Nyholmiella obtusifolia	Orthotrichales | Nyholmiella obtusifolia	61564
+61562_AAC96052_rbcL	Orthotrichales	Orthotrichum anomalum	Orthotrichales | Orthotrichum anomalum	61562
+408845_BAM65606_rbcL	Orthotrichales	Orthotrichum consobrinum	Orthotrichales | Orthotrichum consobrinum	408845
+262976_AAS17010_rbcL	Orthotrichales	Orthotrichum kellmanii	Orthotrichales | Orthotrichum kellmanii	262976
+122744_AAG53561_rbcL	Orthotrichales	Orthotrichum pumilum	Orthotrichales | Orthotrichum pumilum	122744
+1592803_AJD22496_rbcL	Orthotrichales	Orthotrichum rogeri	Orthotrichales | Orthotrichum rogeri	1592803
+61563_AAC96050_rbcL	Orthotrichales	Pulvigera lyellii	Orthotrichales | Pulvigera lyellii	61563
+61569_AAC96036_rbcL	Orthotrichales	Schlotheimia brownii	Orthotrichales | Schlotheimia brownii	61569
+408846_BAM65607_rbcL	Orthotrichales	Schlotheimia grevilleana	Orthotrichales | Schlotheimia grevilleana	408846
+61570_AAC96034_rbcL	Orthotrichales	Schlotheimia tecta	Orthotrichales | Schlotheimia tecta	61570
+61571_AAC96035_rbcL	Orthotrichales	Schlotheimia trichomitria	Orthotrichales | Schlotheimia trichomitria	61571
+262978_AAS17011_rbcL	Orthotrichales	Sehnemobryum paraguense	Orthotrichales | Sehnemobryum paraguense	262978
+1846180_AND48323_rbcL	Orthotrichales	Eosphagnum rigescens	Orthotrichales | Eosphagnum rigescens	1846180
+1903712_QBX99043_rbcL	Orthotrichales	Stoneobryum bunyaense	Orthotrichales | Stoneobryum bunyaense	1903712
+262980_AAS17012_rbcL	Orthotrichales	Stoneobryum mirum	Orthotrichales | Stoneobryum mirum	262980
+37425_BAI66345_rbcL	Orthotrichales	Takakia lepidozioides	Orthotrichales | Takakia lepidozioides	37425
+37420_AIB08516_rbcL	Orthotrichales	Tetraphis pellucida	Orthotrichales | Tetraphis pellucida	37420
+700990_QBX99125_rbcL	Orthotrichales	Ulota bruchii	Orthotrichales | Ulota bruchii	700990
+140636_BAM65605_rbcL	Orthotrichales	Ulota crispa	Orthotrichales | Ulota crispa	140636
+61578_AAC96054_rbcL	Orthotrichales	Ulota lutea	Orthotrichales | Ulota lutea	61578
+61579_AAC96053_rbcL	Orthotrichales	Ulota obtusiuscula	Orthotrichales | Ulota obtusiuscula	61579
+61547_AAC96055_rbcL	Orthotrichales	Ulota perichaetialis	Orthotrichales | Ulota perichaetialis	61547
+61582_AAC96046_rbcL	Orthotrichales	Zygodon intermedius	Orthotrichales | Zygodon intermedius	61582
+61583_AAC96049_rbcL	Orthotrichales	Zygodon obtusifolius	Orthotrichales | Zygodon obtusifolius	61583
+61584_AAC96048_rbcL	Orthotrichales	Zygodon pungens	Orthotrichales | Zygodon pungens	61584
+61585_AAC96047_rbcL	Orthotrichales	Zygodon reinwardtii	Orthotrichales | Zygodon reinwardtii	61585
+1416614_AGY56915_rbcL	Gloeobacterales	Gloeobacter kilaueensis	Gloeobacterales | Gloeobacter kilaueensis	1416614
+33072_BAC90097_rbcL	Gloeobacterales	Gloeobacter violaceus	Gloeobacterales | Gloeobacter violaceus	33072
+272123_AFZ55644_rbcL	Nostocales	Anabaena cylindrica PCC 7122	Nostocales | Anabaena cylindrica PCC 7122	272123
+1710891_OBQ10764_rbcL	Nostocales	Anabaena sp. AL09	Nostocales | Anabaena sp. AL09	1710891
+1710888_OBQ36830_rbcL	Nostocales	Anabaena sp. CRKS33	Nostocales | Anabaena sp. CRKS33	1710888
+1710886_OBQ36220_rbcL	Nostocales	Anabaena sp. MDT14b	Nostocales | Anabaena sp. MDT14b	1710886
+1647413_ALB41756_rbcL	Nostocales	Anabaena sp. WA102	Nostocales | Anabaena sp. WA102	1647413
+1973483_BAY31787_rbcL	Nostocales	Nostoc carneum NIES-2107	Nostocales | Nostoc carneum NIES-2107	1973483
+1137087_BBD65873_rbcL	Nostocales	Nostoc commune HK-02	Nostocales | Nostoc commune HK-02	1137087
+1628751_PHK41354_rbcL	Nostocales	Nostoc linckia z16	Nostocales | Nostoc linckia z16	1628751
+63737_ACC82570_rbcL	Nostocales	Nostoc punctiforme PCC 73102	Nostocales | Nostoc punctiforme PCC 73102	63737
+1973475_BAY39546_rbcL	Nostocales	Nostoc sp. NIES-2111	Nostocales | Nostoc sp. NIES-2111	1973475
+2653204_QFS49268_rbcL	Nostocales	Nostoc sphaeroides CCNUC1	Nostocales | Nostoc sphaeroides CCNUC1	2653204
+987040_PAX60588_rbcL	Nostocales	Calothrix elsteri CCALA 953	Nostocales | Calothrix elsteri CCALA 953	987040
+2005462_BAZ04846_rbcL	Nostocales	Calothrix sp. NIES-3974	Nostocales | Calothrix sp. NIES-3974	2005462
+2005469_BAZ16966_rbcL	Nostocales	Calothrix sp. NIES-4071	Nostocales | Calothrix sp. NIES-4071	2005469
+2005463_BAZ63111_rbcL	Nostocales	Calothrix sp. NIES-4105	Nostocales | Calothrix sp. NIES-4105	2005463
+1170562_AFZ01992_rbcL	Nostocales	Calothrix sp. PCC 6303	Nostocales | Calothrix sp. PCC 6303	1170562
+2005461_BAZ42712_rbcL	Nostocales	Calothrix sp. NIES-4101	Nostocales | Calothrix sp. NIES-4101	2005461
+1973485_BAY93896_rbcL	Nostocales	Fremyella diplosiphon NIES-3275	Nostocales | Fremyella diplosiphon NIES-3275	1973485
+373994_AFY55923_rbcL	Nostocales	Rivularia sp. PCC 7116	Nostocales | Rivularia sp. PCC 7116	373994
+1880902_OCQ98652_rbcL	Synechococcales	Limnothrix sp. P13C2	Synechococcales | Limnothrix sp. P13C2	1880902
+1704291_PIB07953_rbcL	Synechococcales	Limnothrix sp. PR1529	Synechococcales | Limnothrix sp. PR1529	1704291
+927668_ELS32946_rbcL	Synechococcales	Pseudanabaena biceps PCC 7429	Synechococcales | Pseudanabaena biceps PCC 7429	927668
+945775_PZO42169_rbcL	Synechococcales	Pseudanabaena frigida	Synechococcales | Pseudanabaena frigida	945775
+1153_PZU95930_rbcL	Synechococcales	Pseudanabaena sp.	Synechococcales | Pseudanabaena sp.	1153
+1153_PZV11582_rbcL	Synechococcales	Pseudanabaena sp.	Synechococcales | Pseudanabaena sp.	1153
+685565_BBC26154_rbcL	Synechococcales	Pseudanabaena sp. ABRG5-3	Synechococcales | Pseudanabaena sp. ABRG5-3	685565
+82654_AFY69218_rbcL	Synechococcales	Pseudanabaena sp. PCC 7367	Synechococcales | Pseudanabaena sp. PCC 7367	82654
+1980935_OYQ65395_rbcL	Synechococcales	Pseudanabaena sp. SR411	Synechococcales | Pseudanabaena sp. SR411	1980935
+2219813_AZB73040_rbcL	Synechococcales	Synechococcus elongatus PCC 11801	Synechococcales | Synechococcus elongatus PCC 11801	2219813
+269084_BAD78320_rbcL	Synechococcales	Synechococcus elongatus PCC 6301	Synechococcales | Synechococcus elongatus PCC 6301	269084
+1140_ABB57456_rbcL	Synechococcales	Synechococcus elongatus PCC 7942	Synechococcales | Synechococcus elongatus PCC 7942	1140
+2579791_QCS50341_rbcL	Synechococcales	Synechococcus sp. PCC 11901	Synechococcales | Synechococcus sp. PCC 11901	2579791
+32049_ACA99786_rbcL	Synechococcales	Synechococcus sp. PCC 7002	Synechococcales | Synechococcus sp. PCC 7002	32049
+374982_AMA09473_rbcL	Synechococcales	Synechococcus sp. PCC 73109	Synechococcales | Synechococcus sp. PCC 73109	374982
+195248_ANV90809_rbcL	Synechococcales	Synechococcus sp. PCC 8807	Synechococcales | Synechococcus sp. PCC 8807	195248
+195498_ANV87636_rbcL	Synechococcales	Synechococcus sp. PCC 7117	Synechococcales | Synechococcus sp. PCC 7117	195498
+195253_AFY61139_rbcL	Synechococcales	Synechococcus sp. PCC 6312	Synechococcales | Synechococcus sp. PCC 6312	195253
+120273_AHL69546_rbcL	Cupressales	Taxus mariei	Cupressales | Taxus mariei	120273
+1982072_QBK36602_rbcL	Cupressales	Taxus florinii	Cupressales | Taxus florinii	1982072
+46220_QBK36356_rbcL	Cupressales	Taxus brevifolia	Cupressales | Taxus brevifolia	46220
+147282_AFZ65553_rbcL	Cupressales	Cephalotaxus oliveri	Cupressales | Cephalotaxus oliveri	147282
+89484_AXI98084_rbcL	Cupressales	Cephalotaxus sinensis	Cupressales | Cephalotaxus sinensis	89484
+3349_ALK01248_rbcL	Pinales	Pinus sylvestris	Pinales | Pinus sylvestris	3349
+58042_ABD04207_rbcL	Pinales	Pinus nigra	Pinales | Pinus nigra	58042
+71633_AET48331_rbcL	Pinales	Pinus halepensis	Pinales | Pinus halepensis	71633
+3329_CAA53209_rbcL	Pinales	Picea abies	Pinales | Picea abies	3329
+3331_AAM49707_rbcL	Pinales	Picea pungens	Pinales | Picea pungens	3331
+58033_AAP87764_rbcL	Cycadales	Dioon edule	Cycadales | Dioon edule	58033
+115877_BAR93643_rbcL	Cycadales	Dioon spinulosum	Cycadales | Dioon spinulosum	115877
+182487_AAP87765_rbcL	Cycadales	Dioon tomasellii	Cycadales | Dioon tomasellii	182487
+114456_AAP87766_rbcL	Cycadales	Macrozamia communis	Cycadales | Macrozamia communis	114456
+707766_AFS64400_rbcL	Cycadales	Macrozamia mountperriensis	Cycadales | Macrozamia mountperriensis	707766
+13644_AAA92924_rbcL	Poales	Prionium serratum	Poales | Prionium serratum	13644
+306637_AAX18751_rbcL	Poales	Trilepis lhotzkiana	Poales | Trilepis lhotzkiana	306637
+306635_AAX18750_rbcL	Poales	Cyperus hyalinus	Poales | Cyperus hyalinus	306635
+72643_CAC17827_rbcL	Commelinales	Anigozanthos flavidus	Commelinales | Anigozanthos flavidus	72643
+114198_CAB71925_rbcL	Commelinales	Anigozanthos manglesii	Commelinales | Anigozanthos manglesii	114198
+66636_AAY19314_rbcL	Zygophyllales	Larrea tridentata	Zygophyllales | Larrea tridentata	66636
+66627_CAA75248_rbcL	Zygophyllales	Bulnesia arborea	Zygophyllales | Bulnesia arborea	66627
+45189_CAB62905_rbcL	Zygophyllales	Guaiacum sanctum	Zygophyllales | Guaiacum sanctum	45189
+151847_AAK70983_rbcL	Malphigialles	Malpighia emarginata	Malphigialles | Malpighia emarginata	151847
+29755_CAB85661_rbcL	Malphigialles	Malpighia coccigera	Malphigialles | Malpighia coccigera	29755
+3258_AAA57239_rbcL	Equisetales	Equisetum arvense	Equisetales | Equisetum arvense	3258
+3262_AGC26636_rbcL	Equisetales	Equisetum hyemale	Equisetales | Equisetum hyemale	3262
+1481379_QAV57667_rbcL	Hymenophyllales	Trichomanes trollii	Hymenophyllales | Trichomanes trollii	1481379
+58829_BAC67011_rbcL	Hymenophyllales	Trichomanes elegans	Hymenophyllales | Trichomanes elegans	58829
+41968_BAC67001_rbcL	Hymenophyllales	Hymenophyllum reniforme	Hymenophyllales | Hymenophyllum reniforme	41968
+191650_BAC66999_rbcL	Hymenophyllales	Hymenophyllum microcarpum	Hymenophyllales | Hymenophyllum microcarpum	191650
+32108_AXX76473_rbcL	Gleicheniales	Dipteris conjugata	Gleicheniales | Dipteris conjugata	32108
+397682_AHA59686_rbcL	Gleicheniales	Diplopterygium glaucum	Gleicheniales | Diplopterygium glaucum	397682
+90693_QCD15697_rbcL	Osmundales	Osmunda japonica	Osmundales | Osmunda japonica	90693
+3284_AHA59565_rbcL	Osmundales	Osmundastrum cinnamomeum	Osmundales | Osmundastrum cinnamomeum	3284
+13333_AAA92149_rbcL	Nymphaeales	Amborella trichopoda	Nymphaeales | Amborella trichopoda	13333
+38861_AWD77744_rbcL	Nymphaeales	Nuphar pumila	Nymphaeales | Nuphar pumila	38861
+2173159_AWD77659_rbcL	Nymphaeales	Nuphar longifolia	Nymphaeales | Nuphar longifolia	2173159
+296032_AYE68046_rbcL	Nymphaeales	Cabomba furcata	Nymphaeales | Cabomba furcata	296032
+310672_AYE67957_rbcL	Nymphaeales	Cabomba aquatica	Nymphaeales | Cabomba aquatica	310672

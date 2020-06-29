@@ -1,0 +1,96 @@
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVE (ellipsoidal, equal orientation) model with 5 components: 
+
+ log-likelihood   n df       BIC       ICL
+      -299.7109 152 79 -996.3084 -1018.596
+
+Clustering table:
+ 1  2  3  4  5 
+31 20 39 35 27 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVE (ellipsoidal, equal orientation) model with 3 components: 
+
+ log-likelihood   n df       BIC       ICL
+      -373.1253 160 53 -1015.235 -1032.573
+
+Clustering table:
+ 1  2  3 
+85 54 21 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVE (ellipsoidal, equal orientation) model with 3 components: 
+
+ log-likelihood  n df      BIC       ICL
+      -189.3011 88 53 -615.901 -621.0225
+
+Clustering table:
+ 1  2  3 
+37 26 25 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVI (diagonal, varying volume and shape) model with 4 components: 
+
+ log-likelihood  n df       BIC       ICL
+      -187.1069 88 51 -602.5581 -606.7981
+
+Clustering table:
+ 1  2  3  4 
+21 21 36 10 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVE (ellipsoidal, equal orientation) model with 3 components: 
+
+ log-likelihood   n df      BIC      ICL
+       -312.524 124 53 -880.523 -892.623
+
+Clustering table:
+ 1  2  3 
+53 39 32 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVE (ellipsoidal, equal orientation) model with 3 components: 
+
+ log-likelihood   n df       BIC       ICL
+      -448.9256 140 53 -1159.758 -1173.936
+
+Clustering table:
+ 1  2  3 
+32 47 61 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VVE (ellipsoidal, equal orientation) model with 3 components: 
+
+ log-likelihood  n df      BIC      ICL
+       3.176938 88 53 -230.945 -232.148
+
+Clustering table:
+ 1  2  3 
+28 40 20 
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VEE (ellipsoidal, equal shape and orientation) model with 4 components: 
+
+ log-likelihood  n df      BIC      ICL
+       132.8987 88 51 37.45316 37.44706
+
+Clustering table:
+ 1  2  3  4 
+40  4 22 22 
